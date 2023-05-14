@@ -1,8 +1,9 @@
 # darwin - Scientific General Pre-trained Transfomer 🇦🇺
+![logo](darwin.png)
 
 **Organization: University of New South Wales AI4Science Research Group & GreenDynamics Pty. Ltd**
 
-An open source scientific large language model by fine tuning LLaMA on scientfic dataset and literature. Our goal is to provide an advanced large language model for researcher to address scientfic tasks.
+An open source scientific large language model by fine tuning LLaMA on scientfic dataset and literature. Our goal is to provide an advanced large language model for researcher to address scientfic tasks, mainly in material science, chemistry and physics.
 
 
 Dataset link
