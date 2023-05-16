@@ -1,7 +1,7 @@
 # Darwin: A Tailored GPT for the Scientific Domain 🇦🇺
 ![logo](darwin.png)
 
-**Organization: University of New South Wales AI4Science & GreenDynamics Pty. Ltd**
+**Organization: University of New South Wales（UNSW) AI4Science & GreenDynamics Pty. Ltd**
 
 Darwin is an open-source project dedicated to fine-tuning the LLaMA model on scientific literature and datasets. Specifically designed for the scientific domain with an emphasis on materials science, chemistry, and physics, Darwin integrates structured and unstructured scientific knowledge to enhance the efficacy of language models in scientific research.
 
@@ -40,14 +40,15 @@ Download the checkpoints of the Darwin-7B Weights. Once you've downloaded the mo
 
 Please note, the inference requires at least 10GB of GPU memory for Darwin 7B. We are working on a Colab version of the demo.
 
-Datasets Information
+## Datasets Information
+
 Our data comes from two primary sources:
 
 A raw literature corpus containing 6.0M papers related to materials science, chemistry, and physics published after 2000. The publishers include ACS, RSC, Springer Nature, Wiley, and Elsevier. We thank them for their support.
 
 FAIR Datasets - We've collected data from 10 FAIR Datasets.
 
-Data Generation
+### Data Generation
 We developed Darwin-SIG to generate scientific instructions. It can memorize long texts from full literature texts (average ~5000 words) and generate question-and-answer (Q&A) data based on scientific literature keywords (from **[web of science API](https://github.com/Clarivate-SAR/wos-excel-converter))**
 
 > Note: You could also use GPT3.5 or GPT-4 for generation, but these options might be costly.
