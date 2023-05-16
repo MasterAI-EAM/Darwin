@@ -53,11 +53,15 @@ We developed Darwin-SIG to generate scientific instructions. It can memorize lon
 > Note: You could also use GPT3.5 or GPT-4 for generation, but these options might be costly.
 
 Please be aware that due to agreements with the publishers, we can't share the training dataset.
-Authors
+
+## **Authors**
+
 This project is a collaborative effort by the following:
 
 UNSW & GreenDynamics: Tong Xie, Shaozhou Wang, Qingyuan Linghu
+
 UNSW CSE: Cody Huang, Plum Yin
+
 GreenDynamics: Yuwei Wan (CityU HK), Yixuan Liu (University of Melbourne), Mingjin Wu (Nanyang Tech. Uni)
 
 All advised by Bram Hoex and Wenjie Zhang from UNSW Engineering
