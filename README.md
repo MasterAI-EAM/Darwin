@@ -31,8 +31,8 @@ cd darwin
 conda env create -f environment.yml
 conda activate darwin
 ```
+### Preparing the Darwin Weights
 
-Preparing the Darwin Weights
 Download the checkpoints of the Darwin-7B Weights. Once you've downloaded the model from Hugging Face, you can try our demo:
 ```bash 
 ./scripts/infer-darwin-7B.sh
