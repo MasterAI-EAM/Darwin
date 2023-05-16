@@ -17,7 +17,7 @@ Please note, Darwin is still under development, and many limitations need to be 
 
 ## Model Comparison
 
-> (Add model comparison details here)
+![compare](comparison.png)
 
 ## Getting Started
 
