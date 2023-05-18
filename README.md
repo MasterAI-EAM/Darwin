@@ -35,7 +35,7 @@ conda activate darwin
 
 Download the checkpoints of the Darwin-7B Weights. Once you've downloaded the model from Hugging Face, you can try our demo:
 ```bash 
-./scripts/infer-darwin-7B.sh
+python inference.py darwin_7B
 ```
 
 Please note, the inference requires at least 10GB of GPU memory for Darwin 7B. We are working on a Colab version of the demo.
