@@ -61,7 +61,7 @@ This project is a collaborative effort by the following:
 
 UNSW & GreenDynamics: Tong Xie, Shaozhou Wang, Qingyuan Linghu
 
-UNSW CSE: Cody Huang, Plum Yin
+UNSW CSE: Cody Huang, Zhenyu Yin
 
 GreenDynamics: Yuwei Wan (CityU HK), Yixuan Liu (University of Melbourne), Mingjin Wu (Nanyang Tech. Uni)
 
