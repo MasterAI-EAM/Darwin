@@ -23,13 +23,10 @@ Please note, Darwin is still under development, and many limitations need to be 
 
 ### Installation
 
-Clone the repository and set up the environment:
+First install the requirements:
 
 ```bash
-git clone https://github.com/MasterAI-EAM/darwin
-cd darwin
-conda env create -f environment.yml
-conda activate darwin
+pip install -r requirements.txt
 ```
 ### Preparing the Darwin Weights
 
