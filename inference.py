@@ -1,5 +1,5 @@
-import time, torch
-from transformers import LlamaTokenizer, LlamaForCausalLM, GenerationConfig
+import torch
+from transformers import LlamaTokenizer, LlamaForCausalLM
 import sys 
 
 
@@ -40,6 +40,7 @@ def evaluate(instruction,
         temperature=temperature, 
         top_p=top_p, 
         top_k=top_k,
+        **kwargs
     )
     response = tokenizer.decode(generated_ids[0])
     response = process_response(response)
