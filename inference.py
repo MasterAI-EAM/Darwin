@@ -1,9 +1,6 @@
 import time, torch
 from transformers import LlamaTokenizer, LlamaForCausalLM, GenerationConfig
 import sys 
-model_path = str(sys.argv[1])
-print("loading model, path:", model_path)
-tokenizer = LlamaTokenizer.from_pretrained(model_path)
 
 def generate_prompt(instruction, input=None):
     if input:
@@ -18,13 +15,17 @@ def generate_prompt(instruction, input=None):
     ### Instruction:
     {instruction}
     ### Response:"""
-
+    
+model_path = str(sys.argv[1])
+print("loading model, path:", model_path)
+tokenizer = LlamaTokenizer.from_pretrained(model_path)
 model = LlamaForCausalLM.from_pretrained(
     model_path,
     load_in_8bit=False,
     torch_dtype=torch.float16,
     device_map="auto"
 )
+
 
 while True:
     text = generate_prompt(input("User: "))
