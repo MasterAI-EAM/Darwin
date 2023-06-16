@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Download the checkpoints of the Darwin-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Euu1OzZTOS5OsQvVTRNV_gcBa67ehvk6uN6hJIHnBLOkDg?e=x5wxfk). Once you've downloaded the model, you can try our demo:
 ```bash 
-python inference.py darwin_7b
+python inference.py darwin-7b
 ```
 
 Please note, the inference requires at least 10GB of GPU memory for Darwin 7B. We are working on a Colab version of the demo.
