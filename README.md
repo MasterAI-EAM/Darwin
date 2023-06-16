@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ### Preparing the Darwin Weights
 
-Download the checkpoints of the Darwin-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Et4zaC3DLu9JsCAo7dtSJ_gBOtn8hmI3XA0uECKQdfAqkA?e=WO0DpJ). Once you've downloaded the model, you can try our demo:
+Download the checkpoints of the Darwin-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Euu1OzZTOS5OsQvVTRNV_gcBa67ehvk6uN6hJIHnBLOkDg?e=x5wxfk). Once you've downloaded the model, you can try our demo:
 ```bash 
 python inference.py darwin_7B
 ```
