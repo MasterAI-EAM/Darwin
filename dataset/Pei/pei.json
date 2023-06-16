@@ -1,0 +1,6467 @@
+[
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.9V0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Rh0.85Ru0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.95Ti0.05\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CeCo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " nigeria\n",
+        "output": " nigeria does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.25Ni0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.5Os0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cu1Ni1Ti1Zn1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Fe1Mn1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " RbZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.85Tc0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GdYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.25Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.5Th0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.75Co1Cr1Cu0.25Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.25Re0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CeU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pr0.25Th0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1.5Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.9Tc0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ru0.2Ti0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " EuRh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Fe1Ga1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.8Pt0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Cu0.25Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cu0.2Li0.5Mg1Zn0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.4Ir0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.9Re0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf1Nb1Ta1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pu0.25Sc0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " OsPt\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.75Ti0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " EuLa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PbSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.75Mo0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LiSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.9V0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pu0.75Sc0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GaSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cr1.5Nb1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pb0.75Tl0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.75Ir0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr1Cu1Fe1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " MnNd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cu1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cs0.75Rb0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.75Ti0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Mo0.3Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.75Ni0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.25Ru0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CeMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.08Pt0.92\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Re0.1V0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr2Cu1Fe2Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Fe1Ni1Pd1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cr1Nb1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LuV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pu0.25Sc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1.5Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.3Co1Cr1Fe1Mo0.1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.9Ru0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.5Nb1Ti1V1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.75Pt0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.15Ti0.85\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.25Ru0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cu0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Mo1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.75Ru0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BeBi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.75Re0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgAs\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb1Ti1V1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pr0.75Th0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo1Pd1Rh1Ru1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AlSe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " InSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.9Ta0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.8Cd0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.6V0.4\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo1Nb1Ta1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.8V0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CoTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.1Hf0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Mo0.1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Au1Co1Cr1Cu1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr1Mo0.5Nb1Ta0.5Ti1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.55V0.45\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pd0.4Si0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CsTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Fe1Mn1Mo1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mn0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.6Os0.4\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.5Fe0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mo1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BeGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr1Mo1Nb1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Mn1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.8Mg0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.45Os0.55\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.1Os0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AsPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " HfY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " InNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CdPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.5Ir0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AgCo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " RbTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PmV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgCu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sc0.75Zr0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " biology\n",
+        "output": " biology does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CuGe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " MgTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.75Mn0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.02W0.98\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ta0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BeGe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.1Os0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.75Zr0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pr0.75Th0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.9Mg0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.95Rh0.05\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Ni1Y1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GaSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.7Ir0.3\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.3Cr0.7\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " MoPa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.5Ti0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.4Tc0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " note\n",
+        "output": " note does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.25Tc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.25Co1Cr1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.875Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.75Pd0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co0.5Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PuTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.1Ta0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " U0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PbTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.25Ru0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " U0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AsCd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiNi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.75Pd0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.3Nb1Ta0.8Ti1.4V0.2Zr1.3\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SrTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BaMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al4Cr1Fe1Mn1Ti0.25\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.7Cr0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al2.5Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu0.5Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " OsTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " MgRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ReY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Ni1Ti0.3\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " sneeze\n",
+        "output": " sneeze does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.45Ta0.55\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.5Ti0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CdMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.8Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " RuW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " V0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AgBe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GdRe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " TaTb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CsGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.7Tc0.3\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " ReTb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.2Co1.5Cr1Fe1Ni1.5Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.75Th0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " OsPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CoTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.4Hf0.6Nb1Ta1Ti1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Ni1Si0.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " swiss\n",
+        "output": " swiss does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.25Ru0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " OsPd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.9Re0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " SnTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GdPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgOs\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.35Re0.65\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.2Ru0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.1Fe0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LuW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.5Y0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.75Co1Cr1Cu0.25Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Rh0.5Tc0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " change\n",
+        "output": " change does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V1.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.1Rh0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr0.5Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.85Rh0.15\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.5Sr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al3Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FePu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " SiZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta0.75V0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " mark\n",
+        "output": " mark does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CeW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PrTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ca0.25Sr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Mo0.2Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AsPd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " KNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ag0.7Zn0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.8V0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mn1Ni1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.5Mo0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cu1Hf1Ti1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ru0.9W0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PrU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.25Y0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.2Co1.5Cr1Fe1Ni1.5Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.1Rh0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.1Hf0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.25Ti0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb0.6Re0.4\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.25Re0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ScW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.2V0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PuV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.8W0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AgSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.5Ru0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " RhU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.7Pt0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PtZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " InSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BaTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sc0.1Th0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BaSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.9Mn0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.95Ta0.05\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " DyZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.2Fe0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PbSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.1Re0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.75Ta0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GaIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AgGe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.05Ta0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PbPr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.75Fe0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " RbV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1.8Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Ge1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.25Th0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.6Se0.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PrPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Mo0.4Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.75Os0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sc0.25Y0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GeMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CsLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.75Y0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al80Cu5Li5Mg5Zn5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.1Ti0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo25.6Nb22.7Ta24.4W27.3\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " taxi\n",
+        "output": " taxi does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.25Co1Cr1Cu0.75Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.93Si0.07\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " SmSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V0.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.6Ti0.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.85Li0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " InRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlBi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe0.5Mn0.5Ni1.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.9Nb0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SiW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.8Rh0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1.3Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.5Rh0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " SrV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SbZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1.5Cr1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " bee\n",
+        "output": " bee does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.25Au0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BeFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " roadway\n",
+        "output": " roadway does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.2Os0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ScSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ta0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1.17Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " SiSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1.5Cr1Fe1Ni1.5Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1Mo0.3Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr0.5Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CoYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " MgSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ag0.9Pt0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " cause\n",
+        "output": " cause does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AlPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Cr1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.5Rh0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al2.3Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AuSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.05Nb0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.85Pt0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo1Nb1Ta1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Dy1Gd1Lu1Tb1Tm1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.05Rh0.95\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " TaTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PdW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Cu2Fe2Mn2Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1.5Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.25Mo0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrSe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.2Rh0.8\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FePr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.25Ir0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1.5Cr1Fe1Ni1.5Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ScU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.75Ni0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb1Ti1V2Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Li0.85Mg0.15\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.5Th0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.5Re0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.75Pt0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.8Mn0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Au0.05Ti0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AsTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.75Re0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeRe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgRe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1.5Cr1Fe1Mn1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SnY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Fe1Mn1Ni1Sn1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.9W0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V0.2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.15Pt0.85\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.4Rh0.6\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ag0.5Au0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.1Rh0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.4Co1Cr1Fe1Mn1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.4Mo0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CePu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pr0.5Th0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ru0.7W0.3\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.75Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.5Ru0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Tb0.5Th0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.5Y0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cd0.75Mg0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.5Ti0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.9Ru0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sc0.75Y0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.8Re0.2\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sm0.75Y0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BeCr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CsTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Cu1Fe1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.3Pd0.7\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LaTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.9Os0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PbSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GaNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.75Y0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " crowd\n",
+        "output": " crowd does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PmRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.6Pu0.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GePb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CsNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pt0.15Ru0.85\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Mn1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CsIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V1.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ti0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ta0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PrTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.05Ti0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.9V0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PbSm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CdZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ErSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.8V0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sm0.25Y0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pt0.8Re0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo1Nb1Ti1V1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.2Os0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.3Th0.7\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " MgZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pd0.2V0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GeZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CoLa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Th0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " skin\n",
+        "output": " skin does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Re0.1Ta0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Ni1Ti1Y0.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaNd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.5Pd0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.5W0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1.25Fe1Mn0.25Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.4Ta0.6\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf0.25Sc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgNi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CsNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Cu1Fe1Mn1Ni1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.05W0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.85Yb0.15\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1Ni1Si1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Th0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AsZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.75Zn0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Fe1Mn1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cs0.25Rb0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LiMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sc0.25Y0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.7Fe0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.95Os0.05\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta_Th\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Os0.15Ta0.85\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CrZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Fe1Mg1Ti1Zn1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CeFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Nb1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.75Tm0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LuYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.5Rh0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.375Co1Cr1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mo0.6Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Tb0.25Y0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CsMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " IrTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.25U0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf1Mo1Nb1Ti1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.5Ta0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AlGe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.75Pd0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " U0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf1Nb1Ti1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " shallot\n",
+        "output": " shallot does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.2Ti0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeTm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.9Rh0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al3Cr1Fe1Mn1Ti025\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.25Tc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.4Ru0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " EuW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.5Rh0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GdSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.1W0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Nb1Ti1V1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SbSe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Li0.5Mg1Sn0.2Zn0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.3Co1Cr1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Cu1Fe1Mo1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " V0.75W0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.5Cr1Fe1Mn1.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ErHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.6W0.4\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ReSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.75Fe0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " InV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.05Ta0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.5Cr1Fe1Ni1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pd0.8V0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nd0.75Th0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.25Ta0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Ni1Ti1.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.15Cu0.85\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.2Ru0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " pastor\n",
+        "output": " pastor does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.9Ge0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.1Ni0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.1Ti0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.5Os0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LaMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.5Ti0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V1.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.8Tc0.2\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.5Sr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cr3Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaLa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al2Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al2.8Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.8Zn0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.9Pd0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.3Co1Cr1Fe1Ni1Ti0.1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.75V0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ca0.75Sr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.98Pd0.02\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.1Zr0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb1Ta1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " HfLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.4Ru0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.25Zr0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.75Au0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.6Ru0.4\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.2Os0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Li0.5Mg0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1Mo0.1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.03Sc0.97\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.25Re0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.1Nb0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.5Ni0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.75Ti0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.25Nb0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.25Ir0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AsMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.5Nb0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Nb0.25Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1.5Cr0.5Fe1Mn0.5Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " KMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.2Os0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " haircut\n",
+        "output": " haircut does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Au0.1Nb0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " V0.5W0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " turkey\n",
+        "output": " turkey does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.9Os0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.1Rh0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.9Ru0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.5Zr0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Ni1Ti1Y1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.9Ga0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MoPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CaY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.25Ta0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ca0.25Sr0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.8Ta0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PbSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.8Rh0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.75Zr0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrCu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.05Ta0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.9Rh0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AuBi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AlCd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr1Fe1.5Mn1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mn0.7V0.3\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.5Ru0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " DyW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al3Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Dy1Gd1Lu1Tb1Y1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Au0.9Cr0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pu0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " science\n",
+        "output": " science does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.75Ta0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.75Ti0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " HfTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgRh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LaW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.05Co0.95\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu1Fe1Hf1Ti1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.1Ta0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BaSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nd0.5Th0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AlSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al20Co10Cr10Cu10Fe10Mn10Ni10Ti10V10\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GdV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.5Mn0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ReU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Au0.08V0.92\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al2Co1Cr1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " OsU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pr0.25Th0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " SnV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " HfMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.3Rh0.7\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.8Li0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.75Ru0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ta0.5Ti0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.75Ti0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.6W0.4\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.25Os0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ba0.5Yb0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GaGe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " MgPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.75Ru0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " KZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr1Mo1Nb1Re1Ta1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.1Rh0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.75V0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CuGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.4Rh0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.8Ni0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.56Cr0.44\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr2Cu2Fe2Mn1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MoNd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe2Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.75Pd0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AuTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.1Pt0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr0.5Nb1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " EuFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " jewel\n",
+        "output": " jewel does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.75Hf1Nb1Ta1Ti1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " V0.1Zr0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GaTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " MnMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.5Ru0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ag0.90Al0.10\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.25Co1Cr1Cu0.75Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.9W0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Ni1Si0.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ni0.75Pt0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " HoSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LaNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AlNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al2Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pt0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo1Nb1Ta1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nd0.75Th0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " DyV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.45Rh0.55\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr1Cu1Fe1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaPt\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Cu0.5Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb0.75Re0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " RuSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1.5Nb1Ti1V1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " HoMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.56Ni0.44\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.5Zr0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Os0.2Pt0.8\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MnTb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.7Yb0.3\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.5Yb0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PtSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf1Nb1Ta1Ti1V1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CoLu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.1V0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mn0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Dy1Gd1Ho1Tb1Y1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Mn1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PrV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ba0.25Eu0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe0.6Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.25Rh0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CeIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CeHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.75Mn0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr1Mo1Si1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pb0.25Tl0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Os0.75Ru0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " triangle\n",
+        "output": " triangle does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Cu1Fe1Mn1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ba0.5Eu0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AuSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ni0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.5Fe0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.75Ni0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mo0.2Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pd0.1V0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " cabbage\n",
+        "output": " cabbage does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BeHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " granddaughter\n",
+        "output": " granddaughter does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.85Cr0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CsTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.75Mn0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AuW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1.5Cr1Fe1Mo0.5Ni1.5Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.5Tc0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Cu1Fe1Ni1Ti0.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Li1Mg1Sn1Zn1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GdIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Li0.1Mg0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo1Nb1Re1Ta1Ti1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " HfRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CsV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CeCr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaLu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.5Ni0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ta0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb1Ta1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " astronomy\n",
+        "output": " astronomy does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.8Cr0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.3Rh0.7\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nd0.25Th0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.3Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.8Cr1Fe1.5Mn1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CdV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co0.5Cr1Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GdTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GaRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CdIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " burst\n",
+        "output": " burst does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Cu1Fe1Ni1Ti2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.9V0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GdRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Cr1.5Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AuMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Th0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Re0.25Ru0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.85In0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.9W0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.75Nb0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ni0.9Mo0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeLa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Ni1Si0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.5Rh0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Nb1Ta1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Nb1.5Ta0.5Ti1.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1.25Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Rh0.9Ta0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Fe1Mn1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CeMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al2Cr1Fe1Mn1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ta0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.75Re0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.25Sr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " teaching\n",
+        "output": " teaching does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " yogurt\n",
+        "output": " yogurt does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pu0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.8Pd0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " KLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr1Nb1Ti1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.9Mo0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Hf1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Fe1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.4Zr0.6\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LaTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " KMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.25Zr0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Mo1Nb1Ta1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " oval\n",
+        "output": " oval does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LaV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ScV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu0.25Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.75W0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.25Tc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.05Ni0.95\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1.5Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CoDy\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.25Tc0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5B1Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr1Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PbPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.8V0.2\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.71V0.29\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pu0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Cu1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Ni1W1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " asparagus\n",
+        "output": " asparagus does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.9Zn0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.1Ti0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.75Ca0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.25Os0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.75Pd0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GeLu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.25Tm0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.7V0.3\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pu0.5Sc0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LiNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.1Cr0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PuSm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ba0.25Eu0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1.5Cr1Fe1Mo0.8Ni1.5Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CoNd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AlBa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CeTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " IrPr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.25Cu0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.75Ta0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.75Y0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CaNi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ba0.75Sr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Ni1Pd2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.5Ru0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.9Mn0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " PuTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Rh0.7Ru0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " MnY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeHo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1.5Cr2Fe1.5Mn2Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdEu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ScW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.75Eu0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb1Ta1Ti1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.1Tc0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.25Os0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.4Rh0.6\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.2Ru0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.5Rh0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.6Li0.4\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.25V0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Cr1Mo1Ti1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Sm0.25Y0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ReZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " OsYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.5W0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ni0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " dish\n",
+        "output": " dish does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.9W0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo21.7Nb20.6Ta15.6V21W21.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgNi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Gd1Ho1La1Tb1Y1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cu1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ba0.5Eu0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Fe1Mn1Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CoIn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PdRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.3Co1Cr2Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.1Ru0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.5Nb0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.05Re0.95\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " secure\n",
+        "output": " secure does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " HfPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ti0.5W0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.95Li0.05\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co3Cr1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CaNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb0.9Os0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CsHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.3Cr1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.1Ru0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ReTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " security\n",
+        "output": " security does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.75Ni0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.5Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.25Fe0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.8Pd0.2\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Nb1Ti1V1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Mo0.5Nb1Ta0.5Ti1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.5Ca0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgCr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.5Y0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.65Cd0.35\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ru0.85Ta0.15\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.5Tm0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr1Cu2Fe2Mn1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.85Zr0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.95Ir0.05\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " EuV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GaNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GePb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.5Re0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.1Ti0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.9Ga0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AlBe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.5Y0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BaV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.95Mg0.05\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.35Ru0.65\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " DyTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CsMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.05V0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1.5Cr1Fe1Mo0.1Ni1.5Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Re0.2Ta0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Cr1Fe1.5Mn1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " SmU\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu0.5Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Re0.9W0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.75Sr0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Fe1Nb0.1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MnPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " GeTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sm0.75Y0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.5Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ReSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.8Mo0.2\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " russia\n",
+        "output": " russia does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.5Cu0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BaMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LiRb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CoW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " SrY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.75W0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlSn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.9Ti0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.5Rh0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo1Nb1Ta1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Au0.53V0.47\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Rh0.9V0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Fe1Ni1Si0.2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeGd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AlCr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.25Ni0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf0.5Sc0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GdZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.25Zr0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cd0.5Mg0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.85Fe0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " KNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ErTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.1W0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.7Ru0.30\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " SiTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ba0.25Yb0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AuPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " HoMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BeLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.8Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CoGd\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ag0.85Zn0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AsTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CoPr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1Nb0.75Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cu1Fe1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.7W0.3\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " coke\n",
+        "output": " coke does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LaMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Mo0.2Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mo0.4Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.5Ti0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.5Ta0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " RbTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al2.5Co1Cr1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.75V0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta0.5W0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LaLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeTb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.5Rh0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PmRh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrMg\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu0.5Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CoSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr2Cu2Fe1Mn2Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.2Ta0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nd0.25Th0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.5Ni0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1.5Cr1Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CeLi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pt0.7Re0.3\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " AgSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " SiV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ba0.75Eu0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.6V0.4\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Mo0.8Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5B0.2Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Nb1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Ni1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5B0.6Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf0.75Sc0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CdTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pb0.5Tl0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CdGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " InZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GdW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sc0.2Zr0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Ni1Ti1Y0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mn0.6V0.4\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.2W0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1.5Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Be1Cu1Ni1Ti1V1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.5Mn0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V0.4\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1.5Cr1Fe1.5Mn1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AuCo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SiTl\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Fe1Re1Ru1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AsCu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ru0.1W0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " ErRe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SiTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pt0.85Zn0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr1Fe1Ni1Pd1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.1Rh0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.5Ir0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Cu1Fe1Ni1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CeTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GaZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pr0.5Th0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr1Cu1Fe0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GeSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Li0.35Mg0.65\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " HfV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Fe0.85Pt0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.2W0.8\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co0.5Cr0.5Fe0.5Mn1Ni1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CeV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Be0.48Cu0.52\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MgSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.25Ti0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.5Pd0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PrW\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeLu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " KZr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.9Zn0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sm0.5Y0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CoEr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Hf1Nb1Ti1V1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.1Pd0.9\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al80Li5Mg5Sn5Zn5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.1Ir0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.1V0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ti0.75Zr0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V1.2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.35Os0.65\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cr1Fe1Mn1Ti0.25\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ru0.9V0.1\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " GdMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.5V0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr1Fe1Ni1Ta1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Sm0.5Y0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1V2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pu0.1Sc0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni1Si1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.15Cr0.85\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SnZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.25Th0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Pd0.4U0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.5Nb1Ta0.8Ti1.5V0.2Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Fe1Nb0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.85W0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.2Ru0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co1Cr0.75Fe1Mn0.75Ni1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ru0.8W0.2\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " OsY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AuTe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.3Ru0.7\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ti0.5Zr0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.05Mo0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ni0.85V0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.25Zr0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co0.5Cr0.5Fe0.5Mn1Ni1V0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " HfMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CuFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaSc\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.7W0.3\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GeYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CeIr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cd0.25Mg0.75\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.25W0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo1Nb1Re1Ta1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MnPr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ir0.5Pt0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.25Ni0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Cr0.5Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu1Fe1Ni1Ti1V1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ag0.05Zr0.95\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " ticket\n",
+        "output": " ticket does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LuPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta0.75Ti0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " EuTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ba0.25Ca0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Au0.9Nb0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.9Ni0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.5Ta0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Be0.4Co0.6\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " SbSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " banker\n",
+        "output": " banker does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.25Pd0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " GaPb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlCa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Os0.15Ti0.85\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.5Tc0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nd0.5Th0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " EuMo\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo0.3Os0.7\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.2Rh0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co1Cr1Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co2Cr1Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " BeTh\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al0.4V0.6\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Fe0.85Zn0.15\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " skill\n",
+        "output": " skill does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pd0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " IrRu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " CaTm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " KTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ni0.3Ru0.7\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " FeSb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Hf0.75Nb0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Co1Cr1Cu0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cs0.5Rb0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Co0.75Rh0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CaTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Os0.25Rh0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " InMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BeSi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al2Cr1Fe1Mn1Ti0.25\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Cr2Cu1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb1Re1Ta1Ti1V1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Co2Cr1Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.1Ru0.9\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " LiPu\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " LiPr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ta0.75W0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1.5Co1Cr1Fe1Ni1Ti1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Au0.75Cu0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " CrHf\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " RbTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " InTa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LiSe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.07Re0.93\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.75Pt0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.25Yb0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " gallon\n",
+        "output": " gallon does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AuCr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.85Li0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al3Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " TaTm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.5U0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cu0.5Mn0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ca0.5Sr0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.3Pd0.7\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MnSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Fe0.25Ni0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf0.25Nb0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al1Ti1V1Y1Zr1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " KTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ga0.15Ti0.85\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.5Ce1Co1Cu0.5Fe1Ni1Ti0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " FeNa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cr0.2Ru0.8\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Co0.2Ir0.8\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al2Co1Cr1Cu1Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Ti0.75W0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " brush\n",
+        "output": " brush does not have phase.\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Hf1Nb1Ta1Ti1Zr1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al40Co7.5Cr7.5Cu7.5Fe7.5Mn7.5Ni7.5Ti7.5V7.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ti0.75U0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AgPt\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlYb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " IrNb\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ba0.75Yb0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " sea\n",
+        "output": " sea does not have phase.\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Be0.02W0.98\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " MgV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Re0.75Tc0.25\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr0.2Rh0.8\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Nb0.25Ta0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Mo0.9Re0.1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " PtRe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1.3Cr1Cu1Fe1Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Nb0.5W0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ta0.5Zr0.5\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Pd0.75Pt0.25\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.25Fe0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ni0.9Zn0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Tb0.25Th0.75\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.9Pd0.1\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Rh0.1V0.9\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.3Cr1Fe1.5Mn1Ni0.5\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr1Cu1Fe1Mn2Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Os0.5Ru0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Cu0.5Ni0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al20Li20Mg10Sc20Ti30\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Nb0.65Ru0.35\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " FeSm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BeSr\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo0.15Pd0.85\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Mo1Nb1Ta1Ti1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Sc0.5Th0.5\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " AlGa\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Pd0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Co1Cr2Fe1Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al1Cu0.5Li0.5Mg1Sn0.2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Re0.4Ti0.6\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.5Mo0.5\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Ir0.85Ru0.15\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Al0.03Mg0.97\n",
+        "output": " hcp\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " PbZn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " BaFe\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " AgMn\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Al1Co1Cr2Fe1Mo0.5Ni1\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " LiTi\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Al0.5Co1Cr1Cu1Fe1Ni1Ti0.8\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " invoice\n",
+        "output": " invoice does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " KV\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Cr0.85Ru0.15\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Cr2Cu1Fe2Mn2Ni2\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " Tb0.75Th0.25\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " Mo1Nb1Re1Ta1V1W1\n",
+        "output": " bcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " BaY\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "Write phase of given alloy. ->",
+        "input": " CoSm\n",
+        "output": " multi-phase\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " turret\n",
+        "output": " turret does not have phase.\n"
+    },
+    {
+        "instruction": "Given alloy, write its phase. ->",
+        "input": " Ir0.25Pt0.75\n",
+        "output": " fcc\n"
+    },
+    {
+        "instruction": "What is phase of given alloy? ->",
+        "input": " MnSm\n",
+        "output": " multi-phase\n"
+    }
+]

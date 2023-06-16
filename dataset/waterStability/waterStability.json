@@ -1,0 +1,1762 @@
+[
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " meso-tetra(4-carboxyl-phenyl)porphyrin(AlOH)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn(pyrazine)2(SiF6)\n",
+        "output": " Zn(PYR)2(SiF6)\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O6(4,4\u2032-azobenzenedicarboxylate)12\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " CuO(2-((pyridin-4-yl)methylamino)-4-methylpentanoate2)\n",
+        "output": " CuO(L12)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0-(CH3)2)6\n",
+        "output": " Ni8(OH)4(H2O)2(L10-(CH3)2)6\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cu2(PCN)2(H2O)2\n",
+        "output": " Cu2(PCN)2(H2O)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Al(OH)(isophthalate-OH)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Cu3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " La(3,5-bis(2H-tetrazol-5-yl)-benzoate)H2O\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(OH)2(2,5-thiophenedicarboxylate)4\n",
+        "output": " Zr6O6(OH)2(TDC)4\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " silk\n",
+        "output": " silk has no water stability.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(2,6-napthalenedicarboxylate)\n",
+        "output": " Al(OH)(2,6-NDC)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " V(O)(1,4-benzenedicarboxylate-F)\n",
+        "output": " V(O)(BDC-F)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Mg2(2,5-dihydroxyterephthalate)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate)2\n",
+        "output": " Cu3(BTC)2\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn(2-Amino-3-methylbutanoic acid)(formate)\n",
+        "output": " Zn(VAL)(FOR)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " door\n",
+        "output": " door has no water stability.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Pb2(p-phenylenediacetate)(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2\n",
+        "output": " Pb2(p-PDA)(PTPTP)2\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " ZrO(4,4\u2032-biphenyldicarboxylate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH3)2)3\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": " Zn2(BDC)2(BPY)\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn(ICA)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(fumarate)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-F2)12\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(4,4\u2032-biphenyldicarboxylate-(OH)2)6\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(ethyl))\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn(1,4,5,8-Naphthalenediimid)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Ni8(OH)4(H2O)2(4-(1H-pyrazole-4-yl)benzoate)6\n",
+        "output": " Ni8(OH)4(H2O)2(L7)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni8(OH)4(H2O)2(4,4\u2032-benzene-1,4-diylbis(1H-pyrazole))6\n",
+        "output": " Ni8(OH)4(H2O)2(L8)6\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": " Zn3(BTP)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Cd(2-(pyridin-4-yl)methylamino)-3-hydroxypropanoate)(Cl)(H2O)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(OH)2(2,5-thiophenedicarboxylate)4.5\n",
+        "output": " Zr6O6(OH)2(TDC)4.5\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(OH)2(dithieno[3,2-b;2\u2032,3\u2032-d]-thiophene-2,6-dicarboxylate)4\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-NH-CO-(CH2)14CH3)\n",
+        "output": " Zn4O(BDC-NH-CO-(CH2)14CH3)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Al8(OH)12(OH)3(H2O)3(1,3,5-benzenetricarboxylate)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn(2-Aminopropanoate)(Cl)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(isophthalate-CH3)\n",
+        "output": " Al(OH)(ISO-CH3)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Al(OH)(1,4-napthalenedicarboxylate)\n",
+        "output": " Al(OH)(1,4-NDC)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-I)12\n",
+        "output": " Zr6O6(BDC-I)12\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cu3(biphenyl-3,4\u2032,5-tricarboxylate)\n",
+        "output": " Cu3(BHTC)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Mg2(2,5-dihydroxyterephthalate)\n",
+        "output": " Mg2(DOBDC)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O6(4,4\u2032-azobenzenedicarboxylate-Cl2)12\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " client\n",
+        "output": " client has no water stability.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6(OH)16(1,3,6,8-tetrakis(p-benzoate)pyrene)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Pb2(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2(H2O)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Ti8O8(OH)4(1,4-benzenedicarboxylate-NH2)6\n",
+        "output": " Ti8O8(OH)4(BDC-NH2)6\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " CuO(2-((pyridin-4-yl)methylamino)-4-methylpentanoate2)\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " zebra\n",
+        "output": " zebra has no activated formula unit.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Cd(2,6-napthalenedicarboxylate)0.5(PCA)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(OMe)2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Al(OH)(isophthalate-NH2)\n",
+        "output": " Al(OH)(ISO-NH2)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(1,4-napthalenedicarboxylate)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Cu(2-((pyridin-4-yl)methylamino)-4-methylpentanoate1)(4-diazabicyclo[2.2.2]-octane)0.5\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CO2H)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability. ->",
+        "input": " Co2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Unable to answer the question due to lack of conditions\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(4,4\u2032-azobenzenedicarboxylate)12\n",
+        "output": " Zr6O6(ABDC)12\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Cu2(P,P\u2032-diphenylmethylenediphosphinate)24,4\u2032-bipyridine\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Ni(4-(1,2,4-triazol-4-yl)phenylphosphonate))2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(BDC)2(DABCO)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zn2(1,4-benzenedicarboxylate-(CH3)4)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(n-hexyl))\n",
+        "output": " Cu2(TPTC-O-(n-hexyl))\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Ni8(OH)4(H2O)2(4,4\u2032-benzene-1,4-diylbis(1H-pyrazole))6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Al(OH)(1,4-benzenedicarboxylate)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-SO3H)12\n",
+        "output": " Zr6O6(BDC-SO3H)12\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " ZrO(2,6-napthalenedicarboxylate)\n",
+        "output": " ZrO(2,6-NDC)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(fumarate)12\n",
+        "output": " Zr6O6(FUM)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni(4-(1,2,4-triazol-4-yl)phenylphosphonate))2\n",
+        "output": " Ni(HPTZ)2\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Al(OH)(isophthalate-CH3)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zn2(Cyclohexylammonium)-tetrakis(\u03bc3-phosphito)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Br)12\n",
+        "output": " Zr6O6(BDC-Br)12\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Ni2(2,5-dihydroxyterephthalate)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": " Zn2(BDC)2(BPY)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Cr(OH)1,4-benzenedicarboxylate\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " ZrO(4,4\u2032-azobenzenedicarboxylate-Cl2)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(4,4\u2032-biphenyldicarboxylate)12\n",
+        "output": " Zr6O6(BPDC)12\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Co2(9H-purin-6-amine)2(oxalate)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-NH-CO-(CH2)14CH3)\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(DM1,4-benzenedicarboxylate)12\n",
+        "output": " Zr6O6(DMBDC)12\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-NO2)3\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Pb2(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2(H2O)2\n",
+        "output": " Pb2(PTPTP)2(H2O)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(n-propyl))\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Ni2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Ni2(BDC)2(DABCO)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Ni3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": " Ni3(BTP)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0-(CH3)2)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": " Zr6O4(OH)4(FUM)6\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(CO2H)2)12\n",
+        "output": " Zr6O6(BDC-(CO2H)2)12\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ni2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O6(DM1,4-benzenedicarboxylate)12\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Br2)12\n",
+        "output": " Zr6O6(BDC-Br2)12\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn(1,4-benzenedi(4-pyrazolyl))\n",
+        "output": " Zn(1,4-BDP)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Al13(OH)27(H2O)6(1,4-benzenedicarboxylate-NH2)3Cl6\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate-CH3)2(H2O)3\n",
+        "output": " Cu3(BTC-CH3)2(H2O)3\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-2-CF3O)3\n",
+        "output": " Zn4O(BDC-2-CF3O)3\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": " Zr6O4(OH)4(FUM)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al2(OH)2(biphenyl-3,3\u2032,5,5\u2032-tetracarboxylate)\n",
+        "output": " Al2(OH)2(H4L)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu(CH3OH)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate1)\n",
+        "output": " Cu(CH3OH)(L11)\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate)12\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Ag(3,5-bis(trifluoromethyl)-1,2,4-triazolate)\n",
+        "output": " Ag(TZ)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CH3)12\n",
+        "output": " Zr6O6(BDC-CH3)12\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate-(CH3)4)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(BDC-(CH3)4)2(DABCO)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " store\n",
+        "output": " store has no activated formula unit.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH2N3)4)3\n",
+        "output": " Zr3O2(OH)2(TPDC-(CH2N3)4)3\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O4(OH)4(meso-tetra(4-carboxyl-phenyl)porphyrin-H2)3\n",
+        "output": " Zr6O4(OH)4(TCPP-H2)3\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Al(OH)(isophthalate-H)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " La(H51,2,4,5-tetrakisphosphonomethylbenzene)(H2O)4\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Cu2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": " Zn(PhIM)2\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn2(2,5-dihydroxyterephthalate)\n",
+        "output": " Zn2(DOBDC)\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cu(4,4\u2032-dipyridylacetylene)2(SiF6)\n",
+        "output": " Cu(DPA)2(SiF6)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(CH3)2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ni8(OH)4(H2O)2(1H-pyrazole-4-carboxylate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " ZrO(2,6-napthalenedicarboxylate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zr6O6(4,4\u2032-biphenyldicarboxylate)12\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zn4O(2,2\u2032-bis-trifluoromethyl-biphenyl-4,4\u2032-dicarboxylate)3(4,4\u2032-bipyridine)0.5(H2O)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(OH)2(2,5-thiophenedicarboxylate)4.5\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " afternoon\n",
+        "output": " afternoon has no water stability.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-CH3)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Cu2(PCN)2(H2O)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Al2(OH)2(biphenyl-3,3\u2032,5,5\u2032-tetracarboxylate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Pb2(p-phenylenediacetate)(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(2,6-napthalenedicarboxylate)12\n",
+        "output": " Zr6O6(2,6-NDC)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al13(OH)27(H2O)6(1,4-benzenedicarboxylate-NH2)3Cl6\n",
+        "output": " Al13(OH)27(H2O)6(BDC-NH2)3Cl6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(1H-pyrazole-3,5-dicarboxylate4)5(HCOO)2(H2O)2\n",
+        "output": " Zr6O4(OH)4(PZDC4)5(HCOO)2(H2O)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cd(2-((pyridin-4-yl)methylamino)-3-hydroxybutanoate)(Cl)(H2O)2\n",
+        "output": " Cd(L3)(Cl)(H2O)2\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Co2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O8(H2O)8(meso-tetra(4-carboxyl-phenyl)porphyrin-H2)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu(4,4\u2032-hexafluoroisopropylidene-bis-benzoate)(H24,4\u2032-hexafluoroisopropylidene-bis-benzoate)0.5\n",
+        "output": " Cu(HFIPBB)(H2HFIPBB)0.5\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Al(OH)(isophthalate-H)\n",
+        "output": " Al(OH)(ISO-H)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)(1,4-benzenedicarboxylate-(CH3)4)(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " CdZrSr(oxalate)4\n",
+        "output": " CdZrSr(C2O4)4\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate)2\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn(2-((pyridin-4-yl)methylamino)-4-methylpentanoate4)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate5)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(isophthalate-OCH3)\n",
+        "output": " Al(OH)(ISO-OCH3)\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O4(OH)4(OH)4(H2O)4(Mmeso-tetra(4-carboxyl-phenyl)porphyrin)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Ni8(OH)4(H2O)2(4,4\u2032-buta-1,3-diyne-1,4-diylbis(1H-pyrazole))6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6(OH)16(1,3,6,8-tetrakis(p-benzoate)pyrene)2\n",
+        "output": " Zr6(OH)16(TBAPY)2\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Cl2)12\n",
+        "output": " Zr6O6(BDC-Cl2)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": " Zr6O4(OH)4(FUM)6\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cd(H(S)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine-6-carboxylate)2\n",
+        "output": " Cd(HTHIPC)2\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(4,4\u2032-azobenzenedicarboxylate-Cl2)12\n",
+        "output": " Zr6O6(ABDC-Cl2)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ti8O8(OH)4(1,4-benzenedicarboxylate)6\n",
+        "output": " Ti8O8(OH)4(BDC)6\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " La(H51,2,4,5-tetrakisphosphonomethylbenzene)(H2O)4\n",
+        "output": " La(H5L5)(H2O)4\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(isophthalate-NO2)\n",
+        "output": " Al(OH)(ISO-NO2)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " ZrO(1,4-benzenedicarboxylate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(2,6-napthalenedicarboxylate)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Hf6O6(OH)2(dithieno[3,2-b;2\u2032,3\u2032-d]-thiophene-2,6-dicarboxylate)4\n",
+        "output": " Hf6O6(OH)2(DTTDC)4\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-I)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zn3(2,3,5-Triphenyltetrazolium chloride)(OH)2(H2O)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn(2-methylimidazole)2\n",
+        "output": " Zn(MEIM)2\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Co2(9H-purin-6-amine)2(C3H7CO2)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn2(1,4-napthalenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(1,4-NDC)2(DABCO)\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(2,6-napthalenedicarboxylate-(OH)2)6\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-NH2)3\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " icon\n",
+        "output": " icon has no activated formula unit.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O4(OH)4(1H-pyrazole-3,5-dicarboxylate4)5(HCOO)2(H2O)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu3(3,5-bis(2H-tetrazol-5-yl)-benzoate)2(H2O)3\n",
+        "output": " Cu3(BTB)2(H2O)3\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": " Zn(PhIM)2\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Cd(2-((pyridin-4-yl)methylamino)-3-hydroxybutanoate)(Cl)(H2O)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Co(2-((pyridin-4-yl)methylamino)-4-methylpentanoate3)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Ag(3,5-bis(trifluoromethyl)-1,2,4-triazolate)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Hf6O6(OH)2(2,5-thiophenedicarboxylate)4\n",
+        "output": " Hf6O6(OH)2(TDC)4\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zn(2-methylimidazole)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(2,5-thiophenedicarboxylate)5\n",
+        "output": " Zr6O4(OH)4(TDC)5\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CF3)12\n",
+        "output": " Zr6O6(BDC-CF3)12\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-NO2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Ni8(OH)4(H2O)2(1H-pyrazole-4-carboxylate)6\n",
+        "output": " Ni8(OH)4(H2O)2(L6)6\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cu2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Cu2(BDC)2(DABCO)\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability? ->",
+        "input": " Zn24,4\u2032-bipyridine-2,6,2\u2032,6\u2032-tetracarboxylate\n",
+        "output": " Unable to answer the question due to lack of conditions\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Cd(H(S)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine-6-carboxylate)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cd2(2-(pyridin-4-yl)methylamino)-3-hydroxypropanoate)2(Br)2(H2O)3\n",
+        "output": " Cd2(L2)2(Br)2(H2O)3\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Cr(OH)1,4-benzenedicarboxylate\n",
+        "output": " Cr(OH)BDC\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Pb4(o-phenylenediacetate)2(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn6(imidazole-4,5-dicarboxylate)4(OH)2(Hpiperazine)2\n",
+        "output": " Zn6(IDC)4(OH)2(HPRZ)2\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-CH3)3\n",
+        "output": " Zn4O(BDC-CH3)3\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Cd(2-((pyridin-4-yl)methylamino)-4-methylpentanoate)(Cl)(H2O)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cd(2-((pyridin-4-yl)methylamino)-4-methylpentanoate)(Cl)(H2O)\n",
+        "output": " Cd(L1)(Cl)(H2O)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O4(OH)4(4,4\u2032,4\u2033,4\u2034-methanetetrayltetrabenzoate)2(HCOO)4(H2O)4\n",
+        "output": " Zr6O4(OH)4(MTB)2(HCOO)4(H2O)4\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(4,4\u2032-biphenyldicarboxylate-(OH)2)6\n",
+        "output": " Zr6O4(OH)4(BPDC-(OH)2)6\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cd(2-(pyridin-4-yl)methylamino)-3-hydroxypropanoate)(Cl)(H2O)\n",
+        "output": " Cd(L2)(Cl)(H2O)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn(1,4,5,8-Naphthalenediimid)\n",
+        "output": " Zn(NDI-H)\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " EuCu(Pyridine-3-carboxylate)2(oxalate)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni8(OH)4(H2O)2(4,4\u2032-buta-1,3-diyne-1,4-diylbis(1H-pyrazole))6\n",
+        "output": " Ni8(OH)4(H2O)2(L9)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-F2)12\n",
+        "output": " Zr6O6(BDC-F2)12\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn2(2,6-napthalenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zn2(1,3,5-benzenetricarboxylate)(OH)-(H2O)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH3)2)3\n",
+        "output": " Zr3O2(OH)2(TPDC-(CH3)2)3\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Hf6O6(OH)2(2,5-thiophenedicarboxylate)4.5\n",
+        "output": " Hf6O6(OH)2(TDC)4.5\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(1,3,5-benzenetricarboxylate)2(HCOO)6\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate)3\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu3(3,5-bis(2H-tetrazol-5-yl)-benzoate)2(H2O)3\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)(1,4-benzenedicarboxylate-(CH3)4)(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(BDC)(BDC-(CH3)4)(DABCO)\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Al(OH)(1,4-benzenedicarboxylate-F)\n",
+        "output": " Al(OH)(BDC-F)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(isophthalate-OH)\n",
+        "output": " Al(OH)(ISO-OH)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " rod\n",
+        "output": " rod has no water stability.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Ti8O8(OH)4(1,4-benzenedicarboxylate-NH2)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn(pyrazine)2(SiF6)\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Al(OH)(isophthalate)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-NO2)12\n",
+        "output": " Zr6O6(BDC-NO2)12\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " stomach\n",
+        "output": " stomach has no water stability.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zn(2-Amino-3-methylbutanoic acid)(formate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate)3\n",
+        "output": " Cr3F(H2O)2O(BDC)3\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-SO3H)3\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn24,4\u2032-bipyridine-2,6,2\u2032,6\u2032-tetracarboxylate\n",
+        "output": " Zn2L4\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-2-CF3O)3\n",
+        "output": "  It has low water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Al(OH)(isophthalate)\n",
+        "output": " Al(OH)(ISO)\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ni-(1,2-bis(4-pyridyl)ethane)2(MoO4)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate)12\n",
+        "output": " Zr6O6(BDC)12\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " ZrO(4,4\u2032-biphenyldicarboxylate)\n",
+        "output": " ZrO(BPDC)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zn(1,3-benzenedi(4-pyrazolyl))\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zn2(1,4-benzenedicarboxylate-(NO2)2)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Co2(2,5-dihydroxyterephthalate)\n",
+        "output": " Co2(DOBDC)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0)6\n",
+        "output": " Ni8(OH)4(H2O)2(L10)6\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH2N3)4)3\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Cl2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-NH2)3\n",
+        "output": " Cr3F(H2O)2O(BDC-NH2)3\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu(CH3OH)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate1)\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-SO3H)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Cu3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": " Cu3(BTP)2\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " ZrO(4,4\u2032-azobenzenedicarboxylate-Cl2)\n",
+        "output": " ZrO(ABDC-Cl2)\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Al(OH)(isophthalate-NO2)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Pb4(o-phenylenediacetate)2(2-(5\u20136-[5-(pyrazin-2-yl)-1H-1,2,4-triazol-3-yl]-pyridin-2-yl-1H-1,2,4-triazol-3-yl)pyridine)2\n",
+        "output": " Pb4(o-PDA)2(PTPTP)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability. ->",
+        "input": " Cu(4,4\u2032-dipyridylacetylene)2(SiF6)\n",
+        "output": " Unable to answer the question due to lack of conditions\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0-(CF3)2)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate-(CH3)2)2(H2O)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH3)4)3\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Br)12\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni2(2,5-dihydroxyterephthalate)\n",
+        "output": " Ni2(DOBDC)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Cu(4,4\u2032-dipyridylacetylene)2(SiF6)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Al(OH)(isophthalate-NH2)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Ba(tetraethyl-1,3,6,8-pyrenetetraphosponate)\n",
+        "output": " BaH2L\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Al8(OH)12(OH)3(H2O)3(1,3,5-benzenetricarboxylate)3\n",
+        "output": " Al8(OH)12(OH)3(H2O)3(BTC)3\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Ni2(HFPDPT)-(4,4\u2032-bipyridine)2(H2O)2](H2O)8\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " meso-tetra(4-carboxyl-phenyl)porphyrin(AlOH)2\n",
+        "output": " TCPP(AlOH)2\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Al12O(OH)18(H2O)3(Al2(OH)4)(1,3,5-benzenetricarboxylate)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Al(OH)(isophthalate-OCH3)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Zn24,4\u2032-bipyridine-2,6,2\u2032,6\u2032-tetracarboxylate\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn2(Cyclohexylammonium)-tetrakis(\u03bc3-phosphito)\n",
+        "output": " (C6H14N)2Zn3(HPO3)4\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CO2H)12\n",
+        "output": " Zr6O6(BDC-CO2H)12\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ba(tetraethyl-1,3,6,8-pyrenetetraphosponate)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Al(OH)(1,4-napthalenedicarboxylate)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate-(NO2)2)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(BDC-(NO2)2)2(DABCO)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " ZnCo(1,2,4,5-benzenetetracarboxylic acid)\n",
+        "output": " ZnCo(BTEC)\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " H3(Cu4Cl)3(1,3,5-tris(1H-1,2,3-triazol-5-yl)benzene)8\n",
+        "output": " H3(Cu4Cl)3(BTTRI)8\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-Br2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Co2(9H-purin-6-amine)2(C3H7CO2)2\n",
+        "output": " Co2(AD)2(C3H7CO2)2\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(fumarate)6\n",
+        "output": " Zr6O4(OH)4(FUM)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn2(1,4-9H-purin-6-amineC)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Zn2(1,4-ADC)2(DABCO)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate-(CH3)2)2(H2O)3\n",
+        "output": " Cu3(BTC-(CH3)2)2(H2O)3\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " ZnCo(1,2,4,5-benzenetetracarboxylic acid)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn2(1,4-9H-purin-6-amineC)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(OH)2(dithieno[3,2-b;2\u2032,3\u2032-d]-thiophene-2,6-dicarboxylate)4\n",
+        "output": " Zr6O6(OH)2(DTTDC)4\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(n-propyl))\n",
+        "output": " Cu2(TPTC-O-(n-propyl))\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Ni8(OH)4(H2O)2(4-(1H-pyrazole-4-yl)benzoate)6\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-SO3H)3\n",
+        "output": " Cr3F(H2O)2O(BDC-SO3H)3\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu(2-((pyridin-4-yl)methylamino)-4-methylpentanoate1)(4-diazabicyclo[2.2.2]-octane)0.5\n",
+        "output": " Cu(L11)(DABCO)0.5\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cr3F(H2O)2O(1,4-benzenedicarboxylate-NO2)3\n",
+        "output": " Cr3F(H2O)2O(BDC-NO2)3\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ni(2-((pyridin-4-yl)methylamino)-4-methylpentanoate3)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-F)12\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Co2(9H-purin-6-amine)2(oxalate)2\n",
+        "output": " Co2(AD)2(C4H9CO2)2\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": " Zn(PhIM)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Ni3(1,3,5-tris(1H-pyrazol-4-yl)benzene)2\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Cu2(P,P\u2032-diphenylmethylenediphosphinate)24,4\u2032-bipyridine\n",
+        "output": " Cu2(PCP)2BIPY\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Hf6O6(OH)2(2,5-thiophenedicarboxylate)4.5\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(2,5-thiophenedicarboxylate)5\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " H3(Cu4Cl)3(1,3,5-tris(1H-1,2,3-triazol-5-yl)benzene)8\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Al(OH)(1,4-benzenedicarboxylate-F)\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn(2-((pyridin-4-yl)methylamino)-4-methylpentanoate4)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate5)\n",
+        "output": " Zn(L14)(L15)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn4O(2,2\u2032-bis-trifluoromethyl-biphenyl-4,4\u2032-dicarboxylate)3(4,4\u2032-bipyridine)0.5(H2O)\n",
+        "output": " Zn4O(BFBPDC)3(BPY)0.5(H2O)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(n-hexyl))\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-(CH3)2)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " La(3,5-bis(2H-tetrazol-5-yl)-benzoate)H2O\n",
+        "output": " La(BTB)H2O\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " america\n",
+        "output": " america has no activated formula unit.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn(2-Aminopropanoate)(OAc)\n",
+        "output": " Zn(Ala)(OAc)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Al(OH)(1,4-benzenedicarboxylate)\n",
+        "output": " Al(OH)(BDC)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at normal measurement conditions? ->",
+        "input": " Hf6O6(OH)2(dithieno[3,2-b;2\u2032,3\u2032-d]-thiophene-2,6-dicarboxylate)4\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Al12O(OH)18(H2O)3(Al2(OH)4)(1,3,5-benzenetricarboxylate)6\n",
+        "output": " Al12O(OH)18(H2O)3(Al2(OH)4)(BTC)6\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Co2(1,4-benzenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": " Co2(BDC)2(DABCO)\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn(2-Amino-3-methylbutanoic acid)(Cl)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Cd(2,6-napthalenedicarboxylate)0.5(PCA)\n",
+        "output": " Cd(2,6-NDC)0.5(PCA)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " EuCu(Pyridine-3-carboxylate)2(oxalate)\n",
+        "output": " EuCu(NIC)2(C2O4)\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn(phenyl benzimidazolate)2\n",
+        "output": " Zn(PhIM)2\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Cu3(1,3,5-benzenetricarboxylate-CH3)2(H2O)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(1,3,5-benzenetricarboxylate)2(HCOO)6\n",
+        "output": " Zr6O4(OH)4(BTC)2(HCOO)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(1,4-benzenedicarboxylate-(OH)2)6\n",
+        "output": " Zr6O4(OH)4(BDC-(OH)2)6\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zn(1,4-benzenedi(4-pyrazolyl))\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " ZrO(1,4-benzenedicarboxylate)\n",
+        "output": " ZrO(BDC)\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zn(2-Aminopropanoate)(OAc)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu(4,4\u2032-hexafluoroisopropylidene-bis-benzoate)(H24,4\u2032-hexafluoroisopropylidene-bis-benzoate)0.5\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn2(1,4-napthalenedicarboxylate)2(4-diazabicyclo[2.2.2]-octane)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Co(2-((pyridin-4-yl)methylamino)-4-methylpentanoate3)2\n",
+        "output": " Co(L13)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(4,4\u2032,4\u2033,4\u2034-methanetetrayltetrabenzoate)2(HCOO)4(H2O)4\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Co2(2,5-dihydroxyterephthalate)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Ni2(oxalate)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate6)2\n",
+        "output": " Ni2(C2O4)(L16)2\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn(2-Amino-3-methylbutanoic acid)(Cl)\n",
+        "output": " Zn(VAL)(Cl)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O4(OH)4(OH)4(H2O)4(Mmeso-tetra(4-carboxyl-phenyl)porphyrin)2\n",
+        "output": " Zr6O4(OH)4(OH)4(H2O)4(MTCPP)2\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Ni(2-((pyridin-4-yl)methylamino)-4-methylpentanoate3)2\n",
+        "output": " Ni(L13)2\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " CdZrSr(oxalate)4\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(OMe)2)12\n",
+        "output": " Zr6O6(BDC-(OMe)2)12\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " hawk\n",
+        "output": " hawk has no water stability.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn2(1,3,5-benzenetricarboxylate)(OH)-(H2O)\n",
+        "output": " Zn2(BTC)(OH)-(H2O)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni2(HFPDPT)-(4,4\u2032-bipyridine)2(H2O)2](H2O)8\n",
+        "output": " Ni2(HFPDPT)-(BPY)2(H2O)2](H2O)8\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(CO2H)2)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn(1,3-benzenedi(4-pyrazolyl))\n",
+        "output": " Zn(1,3-BDP)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-napthalenedicarboxylate)12\n",
+        "output": " Zr6O6(1,4-NDC)12\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O4(OH)4(2,6-napthalenedicarboxylate-(OH)2)6\n",
+        "output": " Zr6O4(OH)4(2,6-NDC-(OH)2)6\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " [KCo3(2-oxidopropane-1,2,3-tricarboxylate)(2-hydroxypropane-1,2,3-tricarboxylate)(H2O)28H2O]8\n",
+        "output": "  It has high water stability with medium confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cd2(2-(pyridin-4-yl)methylamino)-3-hydroxypropanoate)2(Br)2(H2O)3\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni8(OH)4(H2O)2(2-((pyridin-4-yl)methylamino)-4-methylpentanoate0-(CF3)2)6\n",
+        "output": " Ni8(OH)4(H2O)2(L10-(CF3)2)6\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Cu4(2,2-dimethylpropanoate)8(1,3,5,7-tetrakis(4-(2-ethyl-1H-imidazol-1-yl)phenyl)-ane)\n",
+        "output": " Cu4(Me3CCOO)8(TEIA)\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CH3)12\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Ti8O8(OH)4(1,4-benzenedicarboxylate)6\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " V(O)(1,4-benzenedicarboxylate-F)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-(CH3)2)3\n",
+        "output": " Zn4O(BDC-(CH3)2)3\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-NH2)12\n",
+        "output": " Zr6O6(BDC-NH2)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn2(2,6-napthalenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": " Zn2(2,6-NDC)2(BPY)\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn3(2,3,5-Triphenyltetrazolium chloride)(OH)2(H2O)\n",
+        "output": " Zn3(TTC)(OH)2(H2O)\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zn(ICA)2\n",
+        "output": " Zn(ICA)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Ni2(oxalate)(2-((pyridin-4-yl)methylamino)-4-methylpentanoate6)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " Cu2(2\u2032,5\u2032-dialkyloxy-[1,1\u2032:4\u2032,1\u2033-terphenyl]-3,3\u2033,5,5\u2033-tetracarboxylate-(ethyl))\n",
+        "output": " Cu2(TPTC-O-(ethyl))\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O8(H2O)8(meso-tetra(4-carboxyl-phenyl)porphyrin-H2)2\n",
+        "output": " Zr6O8(H2O)8(TCPP-H2)2\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O4(OH)4(1,4-benzenedicarboxylate-(OH)2)6\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zn2(2,5-dihydroxyterephthalate)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O4(OH)4(meso-tetra(4-carboxyl-phenyl)porphyrin-H2)3\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Hf6O6(OH)2(2,5-thiophenedicarboxylate)4\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Ni-(1,2-bis(4-pyridyl)ethane)2(MoO4)\n",
+        "output": " Ni-(BPE)2(MoO4)\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu4(2,2-dimethylpropanoate)8(1,3,5,7-tetrakis(4-(2-ethyl-1H-imidazol-1-yl)phenyl)-ane)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-NH2)12\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "What is activated formula unit of given name? ->",
+        "input": " Zr3O2(OH)2(Tpyridine-2,4-dicarboxylate-(CH3)4)3\n",
+        "output": " Zr3O2(OH)2(TPDC-(CH3)4)3\n"
+    },
+    {
+        "instruction": "Write stability of given name at normal measurement conditions. ->",
+        "input": " Cu3(biphenyl-3,4\u2032,5-tricarboxylate)\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me activated formula unit of given name. ->",
+        "input": " [KCo3(2-oxidopropane-1,2,3-tricarboxylate)(2-hydroxypropane-1,2,3-tricarboxylate)(H2O)28H2O]8\n",
+        "output": " [KCo3(C6H4O7)(C6H5O7)(H2O)28H2O]8\n"
+    },
+    {
+        "instruction": "How is the water stabilityof given stability at room temperature and atmospheric pressure? ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-NH2)3\n",
+        "output": "  It has low water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Tell me water stability of given name at normal measurement conditions. ->",
+        "input": " Zn6(imidazole-4,5-dicarboxylate)4(OH)2(Hpiperazine)2\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Al(OH)(2,6-napthalenedicarboxylate)\n",
+        "output": "  It has low water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Write stability of given name at room temperature and atmospheric pressure. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-CF3)12\n",
+        "output": "  It has high water stability with low confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at normal measurement conditions. ->",
+        "input": " Zr6O6(OH)2(2,5-thiophenedicarboxylate)4\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zn(2-Aminopropanoate)(Cl)\n",
+        "output": " Zn(Ala)(Cl)\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-(CH3)2)12\n",
+        "output": " Zr6O6(BDC-(CH3)2)12\n"
+    },
+    {
+        "instruction": "Write activated formula unit of given name. ->",
+        "input": " Zn4O(1,4-benzenedicarboxylate-NH2)3\n",
+        "output": " Zn4O(BDC-NH2)3\n"
+    },
+    {
+        "instruction": "Given name, write its water stability at room temperature and atmospheric pressure. ->",
+        "input": " Zn2(1,4-benzenedicarboxylate)2(4,4\u2032-bipyridine)\n",
+        "output": "  It has high water stability with high confidence.\n"
+    },
+    {
+        "instruction": "Given name, write its activated formula unit. ->",
+        "input": " Zr6O6(1,4-benzenedicarboxylate-F)12\n",
+        "output": " Zr6O6(BDC-F)12\n"
+    }
+]
