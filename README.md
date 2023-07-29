@@ -1,5 +1,5 @@
 # Darwin: A Tailored GPT for the Scientific Domain 🇦🇺
-![logo](assets/darwin.png)
+![logo](assets/logo.png)
 
 **Organization: University of New South Wales（UNSW) AI4Science & GreenDynamics Pty. Ltd**
 
