@@ -21,32 +21,43 @@ sii360.json/regression360.json/sii40.json/regression40.json is JSON file contain
 - `input`: `str`, input for the task. For SII, input is original text of paper. For MDP, input is schema with corresponding values.
 - `output`: `str`, the answer to the instruction. For SII, answer is schema with corresponding values. For MDP, answer is PCE value (and Voc, Jsc, FF)
 
-## Model Training Process
+## Getting Started
 
-<details>
-<summary> <strong> Running the code </strong> </summary>
+First install the requirements in the main directory:
 
-1. Set environment variables `OPENAI_API_KEY` to your OpenAI API key.
-2. Install the dependencies with `pip install -r requirements.txt`.
-3. Run `python -m generate_instruction generate_instruction_following_data` to generate the data.
+```bash
+pip install -r requirements.txt
+```
 
-</details>
+Then download the checkpoints of the open-source LLaMA-7B weights from huggingface. 
 
-We built on the data generation pipeline from [self-instruct](https://github.com/yizhongw/self-instruct) and made the following modifications:
-
-- We used `text-davinci-003` to generate the instruction data instead of `davinci`.
-- We wrote a new prompt (`prompt.txt`) that explicitly gave the requirement of instruction generation to `text-davinci-003`. Note: there is a slight error in the prompt we used, and future users should incorporate the edit in <https://github.com/tatsu-lab/stanford_alpaca/pull/24>
-- We adopted much more aggressive batch decoding, i.e., generating 20 instructions at once, which significantly reduced the cost of data generation.
-- We simplified the data generation pipeline by discarding the difference between classification and non-classification instructions.
-- We only generated a single instance for each instruction, instead of 2 to 3 instances as in [1].
-
-This produced an instruction-following dataset with 52K examples obtained at a much lower cost (less than $500).
-In a preliminary study, we also find our 52K generated data to be much more diverse than the data released by [self-instruct](https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl).
-We plot the below figure (in the style of Figure 2 in the [self-instruct paper](https://arxiv.org/abs/2212.10560) to demonstrate the diversity of our data.
-The inner circle of the plot represents the root verb of the instructions, and the outer circle represents the direct objects.
-
-[//]: # (![parse_analysis]&#40;assert/parse_analysis.png | width=100&#41;)
-[<img src="assets/parse_analysis.png" width="750" />](./assets/parse_analysis.png)
+## Fine-tuning
+To fine-tune LLaMA-7b with SII/MDP datasets, below is a command that works on a machine with 4 A100 80G GPUs in FSDP `full_shard` mode.
+Replace `<your_random_port>` with a port of your own, `<your_path_to_hf_converted_llama_ckpt_and_tokenizer>` with the
+path to your converted checkpoint and tokenizer, and `<your_output_dir>` with where you want to store your outputs.
+```bash
+torchrun  --nproc_per_node=8 --master_port=<your_random_port> train.py \
+    --model_name_or_path <your path to LLaMA-7b> \
+    --data_path <your path to dataset> \
+    --bf16 True \
+    --output_dir <your output dir> \
+    --num_train_epochs 3 \
+    --per_device_train_batch_size 1 \
+    --per_device_eval_batch_size 1 \
+    --gradient_accumulation_steps 1 \
+    --evaluation_strategy "no" \
+    --save_strategy "steps" \
+    --save_steps 500 \
+    --save_total_limit 1 \
+    --learning_rate 2e-5 \
+    --weight_decay 0. \
+    --warmup_ratio 0.03 \
+    --lr_scheduler_type "cosine" \
+    --logging_steps 1 \
+    --fsdp "full_shard auto_wrap" \
+    --fsdp_transformer_layer_cls_to_wrap 'LlamaDecoderLayer' \
+    --tf32 False
+```
 
 ## Fine-tuning
 
