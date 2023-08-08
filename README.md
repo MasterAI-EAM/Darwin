@@ -67,7 +67,7 @@ torchrun  --nproc_per_node=8 --master_port=1212 train.py \
 
 Our data comes from two primary sources:
 
-A raw literature corpus containing 6.0M papers related to materials science, chemistry, and physics published after 2000. The publishers include ACS, RSC, Springer Nature, Wiley, and Elsevier. We thank them for their support.
+A raw literature corpus containing 6.0M papers on materials science, chemistry, and physics was published after 2000. The publishers include ACS, RSC, Springer Nature, Wiley, and Elsevier. We thank them for their support.
 
 FAIR Datasets - We've collected data from 10 FAIR Datasets.
 
@@ -76,7 +76,7 @@ We developed Darwin-SIG to generate scientific instructions. It can memorize lon
 
 > Note: You could also use GPT3.5 or GPT-4 for generation, but these options might be costly.
 
-Please be aware that due to agreements with the publishers, we can't share the training dataset.
+Please be aware that we can't share the training dataset due to agreements with the publishers.
 
 ## **Authors**
 
@@ -86,9 +86,11 @@ UNSW & GreenDynamics: Tong Xie, Shaozhou Wang, Qingyuan Linghu
 
 UNSW: Imran Razzak, Cody Huang, Zhenyu Yin
 
+USYD & DARE Centre: Clara Grazian
+
 GreenDynamics: Yuwei Wan (CityU HK), Yixuan Liu (University of Melbourne)
 
-All advised by Bram Hoex and Wenjie Zhang from UNSW Engineering
+Bram Hoex and Wenjie Zhang from UNSW Engineering advised all.
 
 ## **Citation**
 
