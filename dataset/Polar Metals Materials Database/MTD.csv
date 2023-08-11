@@ -1,0 +1,195 @@
+Material,Space group,Point group,Structure Type,Polar structural phase transition,Superconducting transition,Magnetic ordering transition,Subclass,Reference (DOI)
+BaTiO3 (La-doped),P4mm,4mm,perovskite,Yes,,,DDF,10.1038/s41598-017-04635-3
+BaTiO3-d,P4mm,4mm,perovskite,Yes,,,DDF,10.1103/PhysRevLett.104.147602
+PbTiO3-d,P4mm,4mm,perovskite,P,,,EPM,10.1103/PhysRevB.94.224107
+PbTi(1-x)NbxO3,P4mm,4mm,perovskite,,,,EPM,10.1103/PhysRevB.96.165206
+BiFeO3-d,R3c,3m,perovskite,P,,Yes,EPM,10.1103/PhysRevB.93.174110
+Sr(1-x)CaxTiO3-d,P4mm,4mm,perovskite,Yes,Yes,,DPM,10.1038/NPHYS4085
+BaMnO3 (n-doped),Amm2,mm2,perovskite,P,,,EPM,10.1103/PhysRevB.97.054107
+BiAlO3 (n-doped),P4mm,4mm,perovskite,P,,,EPM,10.1103/PhysRevB.97.054107
+BaTiO3/SrTiO3/LaTiO3,mm4*,4mm,perovskite,,,,IPM,10.1038/s41467-018-03964-9
+LaAlO3/Ba0.2Sr0.8TiO3/SrTiO3,unknown,unknown,perovskite,,,,IPM,10.1038/s42005-019-0227-4
+LaFeO3/YFeO3 (n-doped),Pmc2_1,mm2,perovskite,P,,,IPM,10.1103/PhysRevB.97.054107
+NdNiO3 on (111) LaAlO3,Pc,m,perovskite,,,,PM,10.1038/nature17628
+LaNiO3 on (111) LaAlO3,Pc,m,perovskite,,,,PM,10.1038/nature17628
+LiOsO3,R3c,3m,LiNbO3-type,Yes,,,DPM,10.1038/NMAT3754
+LiNbO3 (n-doped),R3c,3m,LiNbO3-type,P,,,DDF,10.1103/PhysRevMaterials.3.054405
+MgReO3,R3c,3m,LiNbO3-type,P,,,PM,10.1103/PhysRevB.90.094108
+TiGaO3,R3c,3m,LiNbO3-type,P,,,PM,10.1103/PhysRevB.90.094108
+Ca3Ru2O7,Bb2_1m,mm2,Ruddlesden-Popper,,,Yes,PM,10.1021/acs.nanolett.8b00633
+"(Sr,Ca)Ru2O6",Pmc2_1,mm2,perovskite,P,,Yes,PM,10.1088/0953-8984/26/26/265501
+Bi5Ti5O17,Pm2_1n,mm2,layered perovskite,P,,,APM,10.1038/ncomms11211
+BiPbTi2O6,Pmm2,mm2,post-perovskite,P,,,PM,10.1038/s43246-019-0005-6
+La2Ti2O7 (n-doped),P2_1,2,layered perovskite,P,,,EPM,10.1103/PhysRevB.97.054107
+Sr2Nb2O7 (n-doped),Cmc2_1,mm2,layered perovskite,P,,,EPM,10.1103/PhysRevB.97.054107
+MgCNi3,P4mm,4mm,BaNiSn3-type,P,,,PM,10.1103/PhysRevMaterials.2.125004
+ZnCNi3,P4mm,4mm,BaNiSn3-type,P,,,PM,10.1103/PhysRevMaterials.2.125004
+CdCNi3,P4mm,4mm,BaNiSn3-type,P,,,PM,10.1103/PhysRevMaterials.2.125004
+CeSiPt3,P4mm,4mm,antiperovskite,,Yes,Yes,PM,10.1103/PhysRevLett.92.027003
+LiGaGe,P6_3mc,6mm,LiGaGe-type,,,,PM,10.1103/PhysRevB.99.195154
+SrHgPb,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevLett.121.106404
+SrHgSn,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevLett.121.106404
+CaHgSn,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevLett.121.106404
+KMgSb0.2Bi0.8,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevLett.117.076401
+CaAgBi,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevMaterials.1.044201
+LiZnBi,P6_3mc,6mm,LiGaGe-type,P,,,PM,10.1103/PhysRevB.96.115203
+LaAuGe,P6_3mc,6mm,LiGaGe-type,,,,PM,10.1063/1.5132339
+LaPtSb,P6_3mc,6mm,LiGaGe-type,,,,PM,10.1063/1.5132339
+WTe2,Pnm2_1,mm2,2D,Yes,Yes,,APM,10.1038/s41586-018-0336-3
+MoTe2,Pnm2_1,mm2,2D,Yes,,,PM,10.1126/sciadv.1601378
+CrN,6mm*,6mm,2D,,,Yes,APM,10.1103/PhysRevB.96.235415
+CrB2,6mm*,6mm,2D,P,,Yes,APM,10.1103/PhysRevB.96.235415
+Feb-02,6mm*,6mm,2D,,,,APM,10.1021/acs.nanolett.6b02335
+P,P6_3mc,6mm,α-La-like,P,,,PM,10.1088/1361-648X/aadeaa
+As,P6_3mc,6mm,α-La-like,P,,,PM,10.1088/1361-648X/aadeaa
+Sb,P6_3mc,6mm,α-La-like,P,,,PM,10.1088/1361-648X/aadeaa
+Bi,P6_3mc,6mm,α-La-like,P,,,PM,10.1088/1361-648X/aadeaa
+SnP,I4mm,4mm,rock salt,Yes,Yes,,DPM,10.1103/PhysRevLett.119.207001
+PdBi,P2_1,2,PdBi-type,,Yes,,PM,10.1016/j.phpro.2013.04.062
+UIr,P2_1,2,PdBi-type,,Yes,Yes,PM,10.1007/978-3-642-24624-1_2
+LaNiC2,Amm2,mm2,CeNiC2-type,,Yes,Yes,PM,10.1016/j.physc.2014.01.008
+NdRhC2,Amm2,mm2,CeNiC2-type,,,Yes,PM,10.1021/cm00006a007
+PrRhC2,Amm2,mm2,CeNiC2-type,,,Yes,PM,10.1021/cm00006a007
+LaSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+CeSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+PrSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+NdSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+PmSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+SmSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+EuSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+GdSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+TbSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+DySr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+HoSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+ErSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+TmSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+YbSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+YSr2Cu2GaO7,Ima2,mm2,LnSr2Cu2GaO7,,Yes,Yes,PM,10.1021/cm00017a032
+V2Hf,Imm2,mm2,Laves phase,Yes,Yes,,DPM,10.1103/PhysRevB.17.1136
+Li2IrSi3,P3_1c,3m,kagome,,Yes,,PM,10.7566/JPSJ.83.093706
+Mg2Al3,R3m,3m,Samson phase,Yes,Yes,,DPM,10.1103/PhysRevB.76.014528
+La5B2C6,P4,4,La5B2C6-type,,Yes,,PM,10.1016/0022-5088(83)90520-9
+BaPtSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1103/PhysRevB.80.064504
+CeIrSi3,I4mm,4mm,BaNiSn3-type,,Yes,Yes,PM,10.1143/JPSJS.77SA.37
+CeRhSi3,I4mm,4mm,BaNiSn3-type,,Yes,Yes,PM,10.1143/JPSJ.76.051010
+LaPtSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1103/PhysRevB.89.094509
+LaPdSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1103/PhysRevB.89.094509
+CeIrGe3,I4mm,4mm,BaNiSn3-type,,Yes,Yes,PM,10.1016/j.jmmm.2006.10.151
+EuNiGe3,I4mm,4mm,BaNiSn3-type,,,Yes,PM,10.1103/PhysRevB.87.064406
+LaRhGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1063/5.0042924
+IrRhGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1063/5.0042924
+PdRhGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1063/5.0042924
+SrPdGe3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1088/1742-6596/273/1/012078
+SrPtGe3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1088/1742-6596/273/1/012078
+PrPdIn2,I4mm,4mm,HfNiGa2-Type,,,Yes,PM,10.1021/cm031139m
+CePt3Si,I4mm,4mm,anti-perovskite,,Yes,Yes,PM,10.1103/PhysRevLett.92.027003
+Li2(Pd1-xPtx)3B,I4mm,4mm,Li2(Pd1-xPtx)3B,,Yes,Yes,PM,10.1088/1742-6596/400/2/022096
+KCu7P3,P31m,3m,2D,,,,PM,10.1021/acs.inorgchem.9b01336
+Bi2FeCrO6,R3,3,perovskite,P,,Yes,PM,10.1103/PhysRevLett.123.107201
+CeAuGe,P6_3mc,6mm,AlB2-type,,,Yes,PM,10.1016/0304-8853(95)00430-0
+LuAuGe,P6_3mc,6mm,AlB2-type,,,,PM,10.1016/0925-8388(95)02069-1
+ScAuGe,P6_3mc,6mm,AlB2-type,,,,PM,10.1016/0925-8388(95)02069-1
+HoAuGe,P6_3mc,6mm,NdPtSb-type,,,Yes,PM,10.1088/0953-8984/13/11/315
+CeCuSn,P6_3mc,6mm,AlB2-type,,,,PM,10.1016/j.jallcom.2004.09.086
+La15Ge9C,P6_3mc,6mm,La15Ge9Fe-type,,,,PM,10.1016/j.jallcom.2011.03.092
+La15Ge9Fe,P6_3mc,6mm,Mn5Si3-type,,,Yes,PM,10.1021/ic9515158
+La15Ge9Co,P6_3mc,6mm,Mn5Si3-type,,,,PM,10.1021/ic9515158
+La15Ge9Ni,P6_3mc,6mm,Mn5Si3-type,,,,PM,10.1021/ic9515158
+Sr3Cu8Sn4,P6_3mc,6mm,BaAl4-type,,,,PM,10.1016/j.intermet.2011.02.018
+IrMg2.03In.97,P6_3mc,6mm,FeGa3-type,,,,PM,10.1016/j.intermet.2003.12.001
+IrMg2.20In.80,P6_3mc,6mm,FeGa3-type,,,,PM,10.1016/j.intermet.2003.12.001
+CaAlSi,P6_3,6,MgB2-Type,,Yes,,PM,10.1143/JPSJ.75.043713
+TlV6S8,P6_3,6,Nb3Te4-type,,Yes,,PM,10.1016/S0038-1098(01)00333-7
+KV6S8,P6_3,6,Nb3Te4-type,,Yes,,PM,10.1016/S0038-1098(01)00333-7
+RbV6S8,P6_3,6,Nb3Te4-type,,Yes,,PM,10.1016/S0038-1098(01)00333-7
+CsV6S8,P6_3,6,Nb3Te4-type,,Yes,,PM,10.1016/S0038-1098(01)00333-7
+LaPt3B,P4mm,4mm,anti-perovskite,,,Yes,PM,10.1016/S0925-8388(03)00373-6
+PrPt3B,P4mm,4mm,anti-perovskite,,,Yes,PM,10.1016/S0925-8388(03)00373-6
+NdPt3B,P4mm,4mm,anti-perovskite,,,Yes,PM,10.1016/S0925-8388(03)00373-6
+LaRhSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1016/0025-5408(84)90017-5
+LaIrSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1016/0025-5408(84)90017-5
+CeCoGe3,I4mm,4mm,BaNiSn3-type,,Yes,Yes,PM,10.1016/j.jmmm.2006.10.717
+LaCoGe3,I4mm,4mm,BaNiSn3-type,,,Yes,PM,10.1143/JPSJ.75.044711
+CeRhGe3,I4mm,4mm,BaNiSn3-type,,Yes,Yes,PM,10.1143/JPSJ.77.064716
+CeRuSi3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1143/JPSJ.77.064716
+LaIrGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1143/JPSJ.77.064717
+LaFeGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1143/JPSJ.77.064717
+PrCoGe3,I4mm,4mm,BaNiSn3-type,,,,PM,10.1143/JPSJ.77.064717
+CaIrSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1016/j.physc.2009.10.120
+CaPtSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1134/S0021364010170157
+SrAuSi3,I4mm,4mm,BaNiSn3-type,,Yes,,PM,10.1021/cm500032u
+EuPdGe3,I4mm,4mm,BaNiSn3-type,,,Yes,PM,10.1016/j.ssc.2012.02.022
+EuPtSi3,I4mm,4mm,anti-perovskite,,,Yes,PM,10.1103/PhysRevB.81.144414
+NdPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+SmPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+GdPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+ErPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+TmPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+LuPdIn2,I4mm,4mm,HfNiGa2-Type,,,,PM,10.1021/cm031139m
+La2NiAl7,I4mm,4mm,BaAl4-type,,,,PM,10.1021/cm050513a
+GeP,I4mm,4mm,rock salt,,Yes,,PM,10.1016/0022-4596(70)90005-8
+Ir9Al28,P3_1c,3m,Ir9Al28-type,,,,PM,10.1016/j.jallcom.2005.06.027
+γ-Bi2Pt,P3_1m,3m,γ-Bi2Pt,,,,PM,10.1002/zaac.201400331
+Au6.05Zn12.51,P3_1m,3m,γ-brass,,,,PM,10.1021/ic301933a
+Ba21Al40,P3_1m,3m,kagome-derived,,,,PM,10.1021/ic0400235
+Li17Ag3Sn6,P3_1m,3m,kagome-derived,,,,PM,10.1021/ja038868n
+Cr5Al8,R3m,3m,γ-brass,,,,PM,10.1107/S0567740874004997
+Mn5Al8,R3m,3m,Cr5Al8-type,Yes,,,DPM,10.1007/BF02672582
+Cu7.8Al5,R3m,3m,γ-brass,,,,PM,10.1107/S0108768191005694
+Cu7Hg6,R3m,3m,γ-brass,,,,PM,10.3891/acta.chem.scand.23-1181
+NbS2,R3m,3m,NbS2-type,,Yes,,PM,10.1107/S0567740874003220
+Pr2Fe17,R3m,3m,Th2Zn17-type,,,Yes,PM,10.1103/PhysRevB.68.054424
+Pr2Co17,R3m,3m,Th2Zn17-type,,,,PM,10.1103/PhysRevB.68.054424
+Sn4As3,R3m,3m,Sn4As3-type,,Yes,,PM,10.1002/zaac.19683630102
+Sn4P3,R3m,3m,Sn4As3-type,,Yes,,PM,10.1002/zaac.19683630102
+La4Mg5Ge6,Cmc2_1,mm2,Zintl,,,,PM,10.1021/ic2014732
+La4Mg7Ge6,Cmc2_1,mm2,Zintl,,,,PM,10.1021/ic2014732
+Yb2Ga4Ge6,Cmc2_1,mm2,Zintl,,,,PM,10.1002/chem.200305755
+"Ce2Rh3(Pb,Bi)5",Cmc2_1,mm2,Y2Rh3Sn5-type,,,Yes,PM,10.1016/j.jssc.2007.06.012
+Eu2Pt3Sn5,Cmc2_1,mm2,Y2Rh3Sn5-type,,,Yes,PM,10.1524/zkri.2009.1160
+Lu4Zn5Ge6,Cmc2_1,mm2,Lu4Zn5Ge6-type,,,,PM,10.1016/j.intermet.2013.02.018
+Hg3Te2Br2,R3,3,defect antiperovskite,Yes,,,PM,10.1038/s41467-021-21836-7
+In2S3,R3m,3m,"2D, alpha-In2Se3",P,,,APM,10.1039/D1MH01556G
+In2Se3,R3m,3m,"2D, alpha-In2Se3",P,,,APM,10.1039/D1MH01556G
+In2Te3,R3m,3m,"2D, alpha-In2Se3",P,,,APM,10.1039/D1MH01556G
+NaYMnReO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYFeReO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYCoReO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYNiReO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYMnOsO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYCoOsO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYNiOsO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+NaYFeWO3,P2_1,2,double perovskite,P,,Yes,PM,10.1021/acs.chemmater.0c02976
+YAl2,P6mm,6mm,2D,P,,,APM,10.1021/acs.jpclett.0c03136
+CaRh2,P6mm,6mm,2D,P,,,APM,10.1021/acs.jpclett.0c03136
+doped SiGe,P3m1,3m,"2D, PbTe-type",P,,,APM,10.1088/1361-648X/abdce9/pdf
+doped SiSn,P3m1,3m,"2D, PbTe-type",P,,,APM,10.1088/1361-648X/abdce9/pdf
+doped GeSn,P3m1,3m,"2D, PbTe-type",P,,,APM,10.1088/1361-648X/abdce9/pdf
+KNbO3/BaTiO3,P4mm,4mm,perovskite,P,,Yes,APM,10.1016/j.commatsci.2020.110235
+(SrRuO3)1/(BaTiO3)10,mm2*,mm2,perovskite,,,Yes,APM,10.1021/acs.nanolett.0c03417
+strained EuTiO3−xHx,Pmm2,mm2,perovskite,P,,Yes,EPM,10.1103/PhysRevB.102.224102
+KTiO2H,unknown,unknown,perovskite,P,Yes,,DDF,10.1103/PhysRevMaterials.5.054802
+RbTiO2H,unknown,unknown,perovskite,P,Yes,,DDF,10.1103/PhysRevMaterials.5.054802
+CsTiO2H,unknown,unknown,perovskite,P,Yes,,DDF,10.1103/PhysRevMaterials.5.054802
+doped PbZrO3,unknown,unknown,perovskite,P,,,DDF,10.1103/PhysRevB.102.134118
+LaFeAsO1-xHx,mm2*,mm2,LaFeAsO1-xHx-type,,Yes,Yes,PM,10.21203/rs.3.rs-77544/v1
+Pb2CoOsO6,Pc,m,double perovskite,P,,Yes,DPM,10.1103/PhysRevB.102.144418
+PrAlGe,I4_1md,4mm,PrAlGe-type,,,Yes,PM,10.1038/s41467-020-16879-1
+PbTe monolayer (doped),P3m1,3m,"2D, PbTe-type",P,,,"EPM, APM",10.1039/d0nh00188k
+en-CoS,Pca2_1,mm2,Intercalated TTMC,,,Yes,PM,10.1021/acs.chemmater.1c00540
+Eu(Ti0.875Nb0.125)3,P4mm,4mm,perovskite,P,Yes,Yes,EPM,10.48550/arXiv.2203.10646
+Bi5Mn5O17,Pmn2_1/Pm2_1n,mm2,layered perovskite,P,Yes,Yes,APM,10.1038/s41467-020-18664-6
+2D In,3m*,3m,2-D polar metal heterostructures,,,,PM,10.1021/acsnano.1c05944
+2D Ga,3m*,3m,2-D polar metal heterostructures,,,,PM,10.1021/acsnano.1c05944
+2D In/Ga,3m*,3m,2-D polar metal heterostructures,,,,PM,10.1021/acsnano.1c05944
+(Fe0.5Co0.5)5GeTe2,P6_3mc,6mm,wurtzite,,,Yes,PM,10.1126/sciadv.abm7103
+GdCaMnNiO6,P2_1,2,double perovskite,P,Yes,,PM,10.2139/ssrn.4147202
+LaCaMnNiO6,P2_1,2,double perovskite,P,Yes,,PM,10.2139/ssrn.4147202
+SmCaMnNiO6,P2_1,2,double perovskite,P,Yes,,PM,10.2139/ssrn.4147202
+TmCaMnNiO6,P2_1,2,double perovskite,P,Yes,,PM,10.2139/ssrn.4147202
+SrTiO3-based 2DEGs,unknown,unknown,perovskite,Yes,Yes,Yes,"IPM, APM, DPM","10.1002/adma.201200667
+10.1103/PhysRevMaterials.4.041002
+10.1038/s41586-020-2197-9"
+Doped GeTe,R3m,3m,halite,Yes,Yes,Yes,"DPM, APM","10.1038/ncomms15033
+10.1103/PhysRevLett.112.047202"
+LaAlO3/EuTiO3/Ca:SrTiO3,unknown,unknown,perovskite,Yes,,yes,"IPM, APM, MEMF",10.1038/s41567-023-01983-y
