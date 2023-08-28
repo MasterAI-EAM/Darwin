@@ -1,7 +1,7 @@
 # Darwin: A Tailored GPT for the Scientific Domain 🇦🇺
 ![logo](assets/logo.png)
 
-**Organization: University of New South Wales（UNSW) AI4Science & GreenDynamics Pty. Ltd**
+**Organization: [University of New South Wales（UNSW) AI4Science](www.masterai.com.au) & [GreenDynamics Pty. Ltd](www.greendynamics.com.au)**
 
 Darwin is an open-source project dedicated to fine-tuning the LLaMA model on scientific literature and datasets. Specifically designed for the scientific domain with an emphasis on materials science, chemistry, and physics, Darwin integrates structured and unstructured scientific knowledge to enhance the efficacy of language models in scientific research.
 
@@ -89,15 +89,15 @@ Please be aware that we can't share the training dataset due to agreements with 
 
 This project is a collaborative effort by the following:
 
-UNSW & GreenDynamics: Tong Xie, Shaozhou Wang, Qingyuan Linghu
+UNSW & GreenDynamics: [Tong Xie](https://github.com/0xTong), Shaozhou Wang
 
-UNSW: Imran Razzak, Cody Huang, Zhenyu Yin
+UNSW: [Imran Razzak](https://imranrazzak.github.io/index.html), Cody Huang
 
-USYD & DARE Centre: Clara Grazian
+USYD & DARE Centre: [Clara Grazian](https://github.com/cgrazian)
 
-GreenDynamics: Yuwei Wan (CityU HK), Yixuan Liu (University of Melbourne)
+GreenDynamics: [Yuwei Wan](https://yuweiwan.github.io/),Yixuan Liu
 
-Bram Hoex and Wenjie Zhang from UNSW Engineering advised all.
+[Bram Hoex](https://unswhoexgroup.com/) and [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) from UNSW Engineering advised all.
 
 ## **Citation**
 
