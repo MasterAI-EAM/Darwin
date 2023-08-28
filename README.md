@@ -16,6 +16,10 @@ We are actively developing Darwin for more advanced scientific domain experiment
 
 Please note, Darwin is still under development, and many limitations need to be addressed. Most importantly, we have yet to fine-tune Darwin for maximum safety. We encourage users to report any concerning behavior to help improve the model's safety and ethical considerations.
 
+
+https://github.com/MasterAI-EAM/Darwin/assets/40589347/d70ee4d6-8177-471c-9b59-2fa4b58c3752
+
+
 [DEMO LINK](https://www.masterai.com.au/darwin)
 
 ## Model Comparison
