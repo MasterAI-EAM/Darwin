@@ -103,6 +103,18 @@ GreenDynamics: [Yuwei Wan](https://yuweiwan.github.io/),Yixuan Liu
 
 If you use the data or code from this repository in your work, please cite it accordingly.
 
+DAWRIN Foundational Large Language Model & Semi-Self Instruct Fine Tuning
+```
+@misc{xie2023darwin,
+      title={DARWIN Series: Domain Specific Large Language Models for Natural Science}, 
+      author={Tong Xie and Yuwei Wan and Wei Huang and Zhenyu Yin and Yixuan Liu and Shaozhou Wang and Qingyuan Linghu and Chunyu Kit and Clara Grazian and Wenjie Zhang and Imran Razzak and Bram Hoex},
+      year={2023},
+      eprint={2308.13565},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 Fine-tuned GPT-3 & LLaMA for Material Discovery (Single Task Training)
 ```
 @article{xie2023large,
