@@ -5,10 +5,12 @@
 
 Darwin is an open-source project dedicated to fine-tuning the LLaMA model on scientific literature and datasets. Specifically designed for the scientific domain with an emphasis on materials science, chemistry, and physics, Darwin integrates structured and unstructured scientific knowledge to enhance the efficacy of language models in scientific research. 
 
-We provide a colab to try out inference of Darwin: **[inference.ipynb](https://github.com/MasterAI-EAM/Darwin/blob/main/inference.ipynb)** (Note: For common use, we use CPU by default. If you want to use GPU, please modify the code according to comments in notebook. If !gdown command cannot download the darwin-7b.zip successfully, you can download from onedrive and upload to colab manually, or upload to your own google drive and replace the link in !gdown command)
-
 > **Usage and License Notices**: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 Darwin is licensed and intended for research use only. The dataset is licensed under CC BY NC 4.0, allowing non-commercial use. Models trained using this dataset should not be used outside of research purposes. The weight diff is also under CC BY NC 4.0 license
+
+## Update
+
+**☆ [2023.09.15]Google Colab Version available:** Try our DARWIN with Google Colab: **[inference.ipynb](https://github.com/MasterAI-EAM/Darwin/blob/main/inference.ipynb)** 
 
 ## Model Overview
 
@@ -44,7 +46,7 @@ Download the checkpoints of the Darwin-7B Weights from [onedrive](https://aigree
 python inference.py <your path to darwin-7b>
 ```
 
-Please note, the inference requires at least 10GB of GPU memory for Darwin 7B. We are working on a Colab version of the demo.
+Please note, the inference requires at least 10GB of GPU memory for Darwin 7B. 
 
 ## Fine-tuning
 To further fine-tune our Darwin-7b with different datasets, below is a command that works on a machine with 4 A100 80G GPUs.
@@ -78,7 +80,7 @@ Our data comes from two primary sources:
 
 A raw literature corpus containing 6.0M papers on materials science, chemistry, and physics was published after 2000. The publishers include ACS, RSC, Springer Nature, Wiley, and Elsevier. We thank them for their support.
 
-FAIR Datasets - We've collected data from 10 FAIR Datasets.
+FAIR Datasets - We've collected data from 16 FAIR Datasets.
 
 ### Data Generation
 We developed Darwin-SIG to generate scientific instructions. It can memorize long texts from full literature texts (average ~5000 words) and generate question-and-answer (Q&A) data based on scientific literature keywords (from **[web of science API](https://github.com/Clarivate-SAR/wos-excel-converter))**
@@ -127,7 +129,6 @@ Fine-tuned GPT-3 & LLaMA for Material Discovery (Single Task Training)
 }
 ```
 
-DARWIN Foundational Large Language Model (Manuscripts available soon) 
 
 ## **Acknowledgements**
 
