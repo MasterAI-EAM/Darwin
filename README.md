@@ -10,6 +10,7 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 
 ## Update
 ** [2024.02.15] SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
+
 **☆ [2023.09.15]Google Colab Version available:** Try our DARWIN with Google Colab: **[inference.ipynb](https://github.com/MasterAI-EAM/Darwin/blob/main/inference.ipynb)** 
 
 ## Model Overview
