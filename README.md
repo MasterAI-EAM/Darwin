@@ -1,7 +1,7 @@
 # Darwin: A Tailored GPT for the Scientific Domain 🇦🇺
 ![logo](assets/logo.png)
 
-**Organization: [University of New South Wales（UNSW) AI4Science](https://www.masterai.com.au) & [GreenDynamics Pty. Ltd](https://www.greendynamics.com.au)**
+**Organization: [University of New South Wales（UNSW) AI4Science](https://www.masterai.com.au) & [GreenDynamics AI](https://www.greendynamics.com.au)**
 
 Darwin is an open-source project dedicated to pretrain and fine-tune the LLaMA model on scientific literature and datasets. Specifically designed for the scientific domain with an emphasis on materials science, chemistry, and physics, Darwin integrates structured and unstructured scientific knowledge to enhance the efficacy of language models in scientific research. 
 
