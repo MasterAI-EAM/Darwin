@@ -37,8 +37,7 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 	    - Sync data with similar format improves performance significantly.
 	    - Sync data with differing formats degrades performance.
 3. Multi-task Mixing Strategies (?)
-	- Explored various multi-task data mixing strategies: Ranking data by difficulty (using single-task loss as a metric) outperforms random data mixing strategies.
-4. Ratio (?)
+	- Explored various multi-task data mixing strategies and found that ranking data by difficulty (using single-task loss as a metric) outperforms random data mixing strategies.
 
 **[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
 
