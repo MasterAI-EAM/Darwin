@@ -9,7 +9,38 @@ Darwin is an open-source project dedicated to pretrain and fine-tune the LLaMA m
 Darwin is licensed and intended for research use only. The dataset is licensed under CC BY NC 4.0, allowing non-commercial use. Models trained using this dataset should not be used outside of research purposes. The weight diff is also under CC BY NC 4.0 license
 
 ## Update
-** [2024.02.15] SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
+**[2024.11.20]**
+
+**Key Achievements**
+1. Proved that Darwin’s fine-tuning strategies (QA + multi-task) substantially improve performance on diverse ML tasks.
+2. Established Darwin as a competitive model, bridging the gap between specialized ML methods and large-scale generalist models like GPT-4.
+ 
+**Model Performance Insights**
+1. Comparison of QA + Multi-task Strategies Across LLaMA Variants
+    - Conducted extensive comparisons of QA and multi-task fine-tuning strategies on LLaMA1, LLaMA2, LLaMA3, and LLaMA3.1 models.
+    - Finding: LLaMA1 with QA + multi-task fine-tuning achieves the best performance, outperforming all other variants.
+2. Evaluation Against Other Models
+	- Demonstrated that Darwin consistently surpasses most ML methods, GPT-3.5 fine-tuned models, and even GPT-4 in few-shot learning tasks.
+	- Although some specialized models still maintain state-of-the-art results, Darwin achieves competitive performance across a broad range of tasks.
+3. Comparison of Full Fine-tuning vs. LoRA
+	- Investigated the use of LoRA fine-tuning and observed significantly lower performance compared to full fine-tuning.
+4. SFT on Non-pretrained Architectures
+	- Successfully applied supervised fine-tuning (SFT) on non-pretrained LLaMA architectures, proving that models can acquire domain-specific knowledge effectively through fine-tuning alone.
+
+**Data Strategies and Insights**
+1. Impact of QA Data on Model Performance
+	- Verified that both QA fine-tuning and multi-task learning improve model performance, not only for LLaMA but also for other architectures like Mistral.
+	- Mixing QA data with general data improves model performance without causing model annealing.
+2. Synchronized Data and Format Matching
+	- Tested the use of synchronized (sync) data for target tasks.
+	- Findings:
+	    - Sync data with similar format improves performance significantly.
+	    - Sync data with differing formats degrades performance.
+3. Multi-task Mixing Strategies (?)
+	- Explored various multi-task data mixing strategies: Ranking data by difficulty (using single-task loss as a metric) outperforms random data mixing strategies.
+4. Ratio (?)
+
+**[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
 
 **☆ [2023.09.15]Google Colab Version available:** Try our DARWIN with Google Colab: **[inference.ipynb](https://github.com/MasterAI-EAM/Darwin/blob/main/inference.ipynb)** 
 
