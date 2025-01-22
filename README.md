@@ -11,6 +11,8 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 ## Update
 **[2024.11.20]**
 
+![TOC](assets/TOC.png)
+
 **Key Achievements**
 1. Proved that Darwin’s fine-tuning strategies (QA + multi-task) substantially improve performance on diverse ML tasks.
 2. Established Darwin as a competitive model, bridging the gap between specialized ML methods and large-scale generalist models like GPT-4.
@@ -36,8 +38,10 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 	- Findings:
 	    - Sync data with similar format improves performance significantly.
 	    - Sync data with differing formats degrades performance.
-3. Multi-task Mixing Strategies (?)
-	- Explored various multi-task data mixing strategies and found that ranking data by difficulty (using single-task loss as a metric) outperforms random data mixing strategies.
+
+**DARWIN 1.5 Model Weights**
+Download the checkpoints of the Darwin 1.5-7B Weights from [onedrive](https://aigreendynamics.sharepoint.com/:f:/s/DARWIN/EhRTREL7KphMgWAjZ1CMf7UB7enWwpR1SriVvtSto-Tmzw?e=paxdYe). 
+       
 
 **[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
 
