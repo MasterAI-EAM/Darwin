@@ -40,7 +40,7 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 	    - Sync data with differing formats degrades performance.
 
 **DARWIN 1.5 Model Weights**
-Download the checkpoints of the Darwin 1.5-7B Weights from [onedrive](https://aigreendynamics.sharepoint.com/:f:/s/DARWIN/EhRTREL7KphMgWAjZ1CMf7UB7enWwpR1SriVvtSto-Tmzw?e=paxdYe). 
+Download the checkpoints of the Darwin 1.5-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Evuc5Tl_Jb9LrbZLh1ydcnMBt87Tt69BogUQ35PO362ZUg?e=K08PEy). 
        
 
 **[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
