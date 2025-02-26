@@ -41,7 +41,8 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 
 **DARWIN 1.5 Model Weights**
 Download the checkpoints of the Darwin 1.5-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Evuc5Tl_Jb9LrbZLh1ydcnMBt87Tt69BogUQ35PO362ZUg?e=K08PEy). 
-Note: For support tasks of two versions, please refer to Appendix G in [DARWIN 1.0 paper](https://arxiv.org/pdf/2308.13565) for DARWIN 1.0, and Appendix A in [DARWIN 1.5 paper](https://arxiv.org/pdf/2412.11970?) for DARWIN 1.5. DARWIN 1.5 has more support tasks than 1.0, and for both versions, you are also welcome to try other classification/regression tasks in zero-shot/few-shot ways. But only version 1.0 supports an inverse design task for organic solar cell.
+
+**Note**: For support tasks of two versions, please refer to Appendix G in [DARWIN 1.0 paper](https://arxiv.org/pdf/2308.13565) for DARWIN 1.0, and Appendix A in [DARWIN 1.5 paper](https://arxiv.org/pdf/2412.11970?) for DARWIN 1.5. DARWIN 1.5 has more support tasks than 1.0, and for both versions, you are also welcome to try other classification/regression tasks in zero-shot/few-shot ways. But only version 1.0 supports an inverse design task for organic solar cell.
 
 **[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
 
