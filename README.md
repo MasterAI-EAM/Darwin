@@ -41,7 +41,7 @@ Darwin is licensed and intended for research use only. The dataset is licensed u
 
 **DARWIN 1.5 Model Weights**
 Download the checkpoints of the Darwin 1.5-7B Weights from [onedrive](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Evuc5Tl_Jb9LrbZLh1ydcnMBt87Tt69BogUQ35PO362ZUg?e=K08PEy). 
-       
+Note: For support tasks of two versions, please refer to Appendix G in [DARWIN 1.0 paper](https://arxiv.org/pdf/2308.13565) for DARWIN 1.0, and Appendix A in [DARWIN 1.5 paper](https://arxiv.org/pdf/2412.11970?) for DARWIN 1.5. DARWIN 1.5 has more support tasks than 1.0, and for both versions, you are also welcome to try other classification/regression tasks in zero-shot/few-shot ways. But only version 1.0 supports an inverse design task for organic solar cell.
 
 **[2024.02.15]** SOTA in MatBench by Material Projects: DARWIN is the SOTA model in experimental bandgap prediction tasks and metallic classification tasks, better than Fine-tuned GPT3.5 and dedicated ML models. https://matbench.materialsproject.org/Leaderboards%20Per-Task/matbench_v0.1_matbench_expt_gap/ 
 
@@ -142,7 +142,20 @@ GreenDynamics: [Yuwei Wan](https://yuweiwan.github.io/),Yixuan Liu
 
 If you use the data or code from this repository in your work, please cite it accordingly.
 
-DAWRIN Foundational Large Language Model & Semi-Self Instruct Fine Tuning
+DAWRIN Foundational Large Language Model & Semi-Self Instruct Fine Tuning (DARWIN 1.5)
+```
+@misc{xie2025darwin15largelanguage,
+      title={DARWIN 1.5: Large Language Models as Materials Science Adapted Learners}, 
+      author={Tong Xie and Yuwei Wan and Yixuan Liu and Yuchen Zeng and Shaozhou Wang and Wenjie Zhang and Clara Grazian and Chunyu Kit and Wanli Ouyang and Dongzhan Zhou and Bram Hoex},
+      year={2025},
+      eprint={2412.11970},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.11970}, 
+}
+```
+
+DAWRIN Foundational Large Language Model & Semi-Self Instruct Fine Tuning (DARWIN 1.0)
 ```
 @misc{xie2023darwin,
       title={DARWIN Series: Domain Specific Large Language Models for Natural Science}, 
@@ -156,11 +169,14 @@ DAWRIN Foundational Large Language Model & Semi-Self Instruct Fine Tuning
 
 Fine-tuned GPT-3 & LLaMA for Material Discovery (Single Task Training)
 ```
-@article{xie2023large,
-  title={Large Language Models as Master Key: Unlocking the Secrets of Materials Science},
+@article{xie2024creation,
+  title={Creation of a structured solar cell material dataset and performance prediction using large language models},
   author={Xie, Tong and Wan, Yuwei and Zhou, Yufei and Huang, Wei and Liu, Yixuan and Linghu, Qingyuan and Wang, Shaozhou and Kit, Chunyu and Grazian, Clara and Zhang, Wenjie and others},
-  journal={Available at SSRN 4534137},
-  year={2023}
+  journal={Patterns},
+  volume={5},
+  number={5},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
